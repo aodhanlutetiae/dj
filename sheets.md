@@ -1,5 +1,5 @@
 
-# WALKTHROUGH: Get a CSV file into a spreadsheet, using Google Sheets
+# WALKTHROUGH: Get a CSV file into a Google Sheet
 
 ---
 **IMPORTING YOUR FILE**
@@ -8,7 +8,9 @@ Download the following CSV file to your computer: [bags_2years.csv](https://driv
 
 Once the file is on your computer, right-click on it and, under **Open With**, choose **Text Edit (Mac)** or **WHAT(Windows)** to look at what's actually in the file. All the values are separated by commas:
 
+<br />
 ![pic zero](/images/walkthroughs/wt0.png)
+<br />
 
 Close the file and navigate to your Google Drive online.
 
@@ -23,14 +25,17 @@ Choose your **bags_2years.csv** file from your computer
 If asked in a dialogue box about **Import Location**, select **Insert New Sheet** and for **Separator Type**, choose **Comma** or **Detect Automatically**
 
 You should now have the CSV file in your Sheet:
-
+<br />
 ![pic one](/images/walkthroughs/wt1.png)
+<br />
 ---
 **ORGANISING YOUR SHEET**
 
 In the bottom left, there is a tab called **bags_2years**. Right click on the tab and select **Duplicate**. This will generate a copy of your Sheet with a tab entitled **Copy of bags_2years**. Double click on this tab and rename it as **data**.
 
+<br />
 ![pic two](/images/walkthroughs/wt2.png)
+<br />
 
 Add a new empty Sheet by using the **+** button just to the left of the tabs. Give this sheet the name **Source** and somewhere in the sheet paste the following url, which is the where the data in your CSV file came from:
 
@@ -53,7 +58,9 @@ It shows how many single-use plastic bags each major retailer issued in England 
 ---
 **NAVIGATING THE SHEET**
 
+<br />
 ![pic three](/images/walkthroughs/wt3.png)
+<br />
 
 Under the menu **View**, choose **Freeze** then **1 row**. This will keep the column names in place as you scroll down through the sheet.
 
