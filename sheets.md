@@ -24,13 +24,12 @@ Choose your **bags_2years.csv** file from your computer
 
 If asked in a dialogue box about **Import Location**, select **Insert New Sheet** and for **Separator Type**, choose **Comma** or **Detect Automatically**
 
-You should now have the CSV file in your Sheet:
+You should now have the CSV file in your Google Sheet:
 
 <br />
 ![pic one](/images/walkthroughs/wt1.png)
 
 <br />
-
 ---
 **ORGANISING YOUR SHEET**
 
@@ -44,9 +43,8 @@ Add a new empty Sheet by using the **+** button just to the left of the tabs. Gi
 
 - https://data.gov.uk/dataset/682843a8-168c-4056-b6fe-741161a39f60/single-use-plastic-carrier-bags-charge-data-for-england
 
----
-
 <br />
+---
 **THE DATA**
 
 At this point we have imported the CSV file to a Sheet, we have named the Sheet and we have duplicated it so that we have a copy of the original data if we need it. We've also added the source for the data so that if we come back to work on this in six months we'll know where the data came from.
@@ -58,11 +56,10 @@ Our data has four columns:
 - Number of single use plastic bags issued
 - Gross proceeds of charge (£)
 
-It shows how many single-use plastic bags each major retailer issued in England in 2018-19 and 2019-20, and how much money they each collected from charging customers for them. The data was published in 2020 by DEFRA, the Department for Environment, Food and Rural Affairs.
-
----
+It shows how many single-use plastic bags each major retailer issued in England in 2018-19 and 2019-20, and how much money they each collected from charging customers for the bags. The data was published in 2020 by the Department for Environment, Food and Rural Affairs (DEFRA).
 
 <br />
+---
 **NAVIGATING THE SHEET**
 
 Under the menu **View**, choose **Freeze** then **1 row**. This will keep the column names in place as you scroll down through the sheet.
@@ -71,7 +68,7 @@ Under the menu **View**, choose **Freeze** then **1 row**. This will keep the co
 ![pic three](/images/walkthroughs/wt3.png)
 
 <br />
-You can adjust the width of the four columns.
+Adjust the width of the four columns.
 
 Use CMD and a down arrow to jump to the bottom of the dataset. Use CMD and a right arrow to jump to the right of the dataset and so on.
 
@@ -89,18 +86,24 @@ If you select all the cells in Column C ('Number of single use plastic bags issu
 ![pic five](/images/walkthroughs/wt5.png)
 
 <br />
-Adjust the number of decimal points showing in Column D ('Gross proceeds of charge (£)') by using the **Increase / Decrease Decimal Places** buttons
+Adjust the number of decimal points showing in Column D ('Gross proceeds of charge') by using the **Increase / Decrease Decimal Places** buttons
 
 <br />
 ![pic six](/images/walkthroughs/wt6.png)
 
 <br />
 ---
-**SORT & FILTER**
-Sort a column.
 
-Filter a column.
-
-
+<br />
 ---
-Now, see if you can repeat all those steps with a different file: [the same data but for two earlier years, 2016 and 2017](https://drive.google.com/file/d/1O-d4UbCn90mY4fvSWBNeUOkUgY3GXoFi/view?usp=sharing)
+**SORT & FILTER**
+
+You can sort the contents of a column....
+
+You can filter a column...
+
+<br />
+---
+**FINALLY**
+
+Repeat all these steps with a different file: [the same data but for two earlier years, 2016 and 2017](https://drive.google.com/file/d/1O-d4UbCn90mY4fvSWBNeUOkUgY3GXoFi/view?usp=sharing)
