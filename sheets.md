@@ -8,7 +8,7 @@ Download the following CSV file to your computer: [bags_2years.csv](https://driv
 
 Once the file is on your computer, right-click on it and under **Open With** choose **Text Edit (Mac)** or **WHAT(Windows)** to look at what's actually in the file. All the values are separated by commas:
 
-<img src="/images/walkthroughs/wt0.png" width="200" height="400" />
+<img src="/images/walkthroughs/wt0.png" width="400" height="200" />
 
 In your own Google Drive, open a new Sheet by clicking **+ New**, then **Google Sheets**, then **Blank Spreadsheet**
 
@@ -22,16 +22,14 @@ If asked in a dialogue box about **Import Location**, select **Insert New Sheet*
 
 You should now have the CSV file in your Sheet:
 
-<!-- ![one](/images/walkthroughs/wt1.png) -->
-<img src="/images/walkthroughs/wt0.png" alt="drawing" width="200"/>
+<img src="/images/walkthroughs/wt1.png" alt="one" width="200"/>
 
 ---
 **ORGANISING YOUR SHEET**
 
 In the bottom left, there is a tab called **bags_2years**. Right click on the tab and select **Duplicate**. This will generate a new Sheet with a tab called **Copy of bags_2years**. Double click on this tab and rename it as **data**.
 
-<!-- ![two](/images/walkthroughs/wt2.png) -->
-<img src="/images/walkthroughs/wt0.png" alt="drawing" width="200"/>
+![pic two](/images/walkthroughs/wt2.png) <!-- .element height="50%" width="50%" -->
 
 Add a new empty Sheet by using the **+** button just to the left of the tabs. Give this the name **Source** and somewhere in the sheet paste the following url, which is the where the data in your file was taken:
 
@@ -54,8 +52,8 @@ These are companies in England that charged customers for single-use plastic bag
 ---
 **NAVIGATING THE SHEET**
 
-<!-- ![three](/images/walkthroughs/wt3.png) -->
-<img src="/images/walkthroughs/wt0.png" alt="drawing" width="200"/>
+![pic three](/images/walkthroughs/wt3.png)
+<!-- .element style="border: 0; background: None; box-shadow: None" -->
 
 Under the menu **View**, choose **Freeze** then **1 row**. This will maintain the column names in place as you scroll down through the sheet.
 
