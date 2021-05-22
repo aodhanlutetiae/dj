@@ -1,0 +1,10 @@
+
+** SIZING IMAGES IN MARKDOWN**
+
+<img src="/images/walkthroughs/wt1.png" alt="one" width="450"/>
+
+![pic three](/images/walkthroughs/wt3.png)
+<!-- .element style="border: 0; background: None; box-shadow: None" -->
+
+![pic three](/images/walkthroughs/wt3.png)
+<!-- .element max-width: 20%" -->
