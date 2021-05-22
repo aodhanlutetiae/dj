@@ -1,8 +1,8 @@
 
-# Reading one
+#Reading one
 ---
-### Barr, Caelainn. Building Your Own Data Set: Documenting Knife Crime in the United Kingdom. In Bounegru, Liliana & Gray, Jonathan (eds.). The data journalism handbook: towards a critical data practice. Amsterdam University Press, 2021, p. 49-54.
-
+###Barr, Caelainn. Building Your Own Data Set: Documenting Knife Crime in the United Kingdom. In Bounegru, Liliana & Gray, Jonathan (eds.). The data journalism handbook: towards a critical data practice. Amsterdam University Press, 2021, p. 49-54.
+---
 **Read [the text](https://library.oapen.org/bitstream/handle/20.500.12657/47509/9789048542079.pdf#Gray_Colour.indd%3A.307590%3A2663) and answer the questions below.**
 ---
 **Question 1**
@@ -19,7 +19,7 @@ See [Answer](#answer_one)
 
 **Question 2**
 
-The data in the Home Office’s Homicide Index is gathered for which geographical area:
+The data in the Home Office’s Homicide Index is gathered for which area:
 
 - UK
 - Great Britain
