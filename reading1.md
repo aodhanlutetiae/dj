@@ -1,18 +1,24 @@
 
-# Barr, Caelainn. Building Your Own Data Set: Documenting Knife Crime in the United Kingdom. In Bounegru, Liliana & Gray, Jonathan (eds.). The data journalism handbook: towards a critical data practice. Amsterdam University Press, 2021, p. 49-54.
+# Reading one
+---
+### Barr, Caelainn. Building Your Own Data Set: Documenting Knife Crime in the United Kingdom. In Bounegru, Liliana & Gray, Jonathan (eds.). The data journalism handbook: towards a critical data practice. Amsterdam University Press, 2021, p. 49-54.
 
-Read [the text](https://library.oapen.org/bitstream/handle/20.500.12657/47509/9789048542079.pdf#Gray_Colour.indd%3A.307590%3A2663) and answer the questions below.
+**Read [the text](https://library.oapen.org/bitstream/handle/20.500.12657/47509/9789048542079.pdf#Gray_Colour.indd%3A.307590%3A2663) and answer the questions below.**
 
-1. For the period studied, outside London, how many of the victims were Black?
+**Question 1**
+For the period studied, outside London, how many of the victims were Black?
 
 - 5%
 - 20%
 - Less than 20%
 - More than 20%
 - None of the above
-[Answer](#answer_one)
 
-2. The data in the Home Office’s Homicide Index is gathered for which geographical area:
+[Answer](#answer_one)
+---
+
+**Question 2**
+The data in the Home Office’s Homicide Index is gathered for which geographical area:
 
 - UK
 - Great Britain
@@ -20,9 +26,12 @@ Read [the text](https://library.oapen.org/bitstream/handle/20.500.12657/47509/97
 - Scotland
 - Wales
 - None of the above
-[Answer](#answer_two)
 
-3. Which of the following techniques does the writer suggest as possible ways to gather your own data as a journalist?
+[Answer](#answer_two)
+---
+
+**Question 3**
+Which of the following techniques does the writer suggest as possible ways to gather your own data as a journalist?
 
 - Manual data entry in a spreadsheet
 - Extracting information from PDFs
@@ -30,13 +39,21 @@ Read [the text](https://library.oapen.org/bitstream/handle/20.500.12657/47509/97
 - Getting documents through FOI requests
 - Collecting data from an API
 - Scraping data from webpages
+
 [Answer](#answer_three)
+---
 
-4. What two skills does the writer suggest are needed to start gathering your own data?
+**Question 4**
+What two skills does the writer suggest are needed to start gathering your own data?
+
 [Answer](#answer_four)
+---
 
-5. How did they collect data for the year in which they were working, i.e. a time period for which there would not be government or police data released?
+**Question 5**
+How did they collect data for the year in which they were working, i.e. a time period for which there would not be government or police data released?
+
 [Answer](#answer_five)
+---
 
 
 ---
