@@ -1,4 +1,4 @@
-## Module One: Data for journalism
+## Module One: Data for news and journalism
 
 Getting started with analysing data for journalism
 
@@ -9,6 +9,7 @@ Getting started with analysing data for journalism
 - More
 - [Reading 2](https://aodhanlutetiae.github.io/dj/reading2)
 - [Reading 3](https://aodhanlutetiae.github.io/dj/reading3)
+
 ---
 
 ## Practice (June 14+)
@@ -18,6 +19,7 @@ Getting started with analysing data for journalism
 - [The tube in London](https://forms.gle/TEcZadFC7MkCMzBu5)
 - [The pubs in Wales](https://forms.gle/qrL5jyJ6Lkts5vscA)
 - [Finding data](https://aodhanlutetiae.github.io/dj/finding)
+
 ---
 
 ## Resources
