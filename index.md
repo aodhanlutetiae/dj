@@ -5,7 +5,6 @@ Getting started with analysing data for journalism
 ## Learning
 
 - [Google Sheets walkthrough](https://aodhanlutetiae.github.io/dj/sheets)
--
 - [Reading 1](https://aodhanlutetiae.github.io/dj/reading1)
 - [Reading 2](https://aodhanlutetiae.github.io/dj/reading2)
 - [Reading 3](https://aodhanlutetiae.github.io/dj/reading3)
@@ -13,7 +12,7 @@ Getting started with analysing data for journalism
 ## Practice
 
 - [The weather in Sheffield](https://forms.gle/vE7qyvDxMPbysyo88)
-- [The free press around the world]
+- [The free press around the world](https://forms.gle/1K3vwKRC9FR5JZdS8)
 - [The tube in London]
 - [The pubs in Wales]
 
