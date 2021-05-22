@@ -8,8 +8,7 @@ Download the following CSV file to your computer: [bags_2years.csv](https://driv
 
 Once the file is on your computer, right-click on it and under **Open With** choose **Text Edit (Mac)** or **WHAT(Windows)** to look at what's actually in the file. All the values are separated by commas:
 
-<!-- ![zero](/images/walkthroughs/wt0.png) -->
-<img src="/images/walkthroughs/wt0.png" alt="drawing" width="200"/>
+<img src="/images/walkthroughs/wt0.png" width="200" height="400" />
 
 In your own Google Drive, open a new Sheet by clicking **+ New**, then **Google Sheets**, then **Blank Spreadsheet**
 
