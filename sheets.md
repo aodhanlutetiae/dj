@@ -1,15 +1,15 @@
 
-# How to get a CSV (comma separated values) file into a spreadsheet using Google Sheets and get working with it.
+# How to get a CSV (comma-separated values) file into a spreadsheet using Google Sheets
 
 ---
 **IMPORTING YOUR FILE**
 
-Download the following file to your computer: [bags_2years.csv](https://drive.google.com/file/d/15vDqg-u6W4tHouC42uvhMOdy21oTl3ov/view?usp=sharing)
+Download the following CSV file to your computer: [bags_2years.csv](https://drive.google.com/file/d/15vDqg-u6W4tHouC42uvhMOdy21oTl3ov/view?usp=sharing)
 
 Once the file is on your computer, right-click on it and under **Open With** choose **Text Edit (Mac)** or **WHAT(Windows)** to look at what's actually in the file. All the values are separated by commas:
 
-![zero](/images/walkthroughs/wt0.png)
-<!-- <img src="/images/walkthroughs/wt1.png" alt="drawing" width="400"/> -->
+<!-- ![zero](/images/walkthroughs/wt0.png) -->
+<img src="/images/walkthroughs/wt1.png" alt="drawing" width="400"/>
 
 In your own Google Drive, open a new Sheet by clicking **+ New**, then **Google Sheets**, then **Blank Spreadsheet**
 
@@ -23,16 +23,16 @@ If asked in a dialogue box about **Import Location**, select **Insert New Sheet*
 
 You should now have the CSV file in your Sheet:
 
-![one](/images/walkthroughs/wt1.png)
-<!-- <img src="/images/walkthroughs/wt1.png" alt="drawing" width="400"/> -->
+<!-- ![one](/images/walkthroughs/wt1.png) -->
+<img src="/images/walkthroughs/wt1.png" alt="drawing" width="400"/>
 
 ---
 **ORGANISING YOUR SHEET**
 
 In the bottom left, there is a tab called **bags_2years**. Right click on the tab and select **Duplicate**. This will generate a new Sheet with a tab called **Copy of bags_2years**. Double click on this tab and rename it as **data**.
 
-![two](/images/walkthroughs/wt2.png)
-<!-- <img src="/images/walkthroughs/wt2.png" alt="drawing" width="400"/> -->
+<!-- ![two](/images/walkthroughs/wt2.png) -->
+<img src="/images/walkthroughs/wt2.png" alt="drawing" width="400"/>
 
 Add a new empty Sheet by using the **+** button just to the left of the tabs. Give this the name **Source** and somewhere in the sheet paste the following url, which is the where the data in your file was taken:
 
@@ -55,8 +55,8 @@ These are companies in England that charged customers for single-use plastic bag
 ---
 **NAVIGATING THE SHEET**
 
-![three](/images/walkthroughs/wt2.png)
-<!-- <img src="/images/walkthroughs/wt3.png" alt="drawing"> -->
+<!-- ![three](/images/walkthroughs/wt3.png) -->
+<img src="/images/walkthroughs/wt3.png" alt="drawing">
 
 Under the menu **View**, choose **Freeze** then **1 row**. This will maintain the column names in place as you scroll down through the sheet.
 
