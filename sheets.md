@@ -30,6 +30,7 @@ You should now have the CSV file in your Sheet:
 ![pic one](/images/walkthroughs/wt1.png)
 
 <br />
+
 ---
 **ORGANISING YOUR SHEET**
 
@@ -44,6 +45,8 @@ Add a new empty Sheet by using the **+** button just to the left of the tabs. Gi
 - https://data.gov.uk/dataset/682843a8-168c-4056-b6fe-741161a39f60/single-use-plastic-carrier-bags-charge-data-for-england
 
 ---
+
+<br />
 **THE DATA**
 
 At this point we have imported the CSV file to a Sheet, we have named the Sheet and we have duplicated it so that we have a copy of the original data if we need it. We've also added the source for the data so that if we come back to work on this in six months we'll know where the data came from.
@@ -58,6 +61,8 @@ Our data has four columns:
 It shows how many single-use plastic bags each major retailer issued in England in 2018-19 and 2019-20, and how much money they each collected from charging customers for them. The data was published in 2020 by DEFRA, the Department for Environment, Food and Rural Affairs.
 
 ---
+
+<br />
 **NAVIGATING THE SHEET**
 
 Under the menu **View**, choose **Freeze** then **1 row**. This will keep the column names in place as you scroll down through the sheet.
