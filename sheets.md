@@ -6,15 +6,17 @@
 
 Download the following CSV file to your computer: [bags_2years.csv](https://drive.google.com/file/d/15vDqg-u6W4tHouC42uvhMOdy21oTl3ov/view?usp=sharing)
 
-Once the file is on your computer, right-click on it and under **Open With** choose **Text Edit (Mac)** or **WHAT(Windows)** to look at what's actually in the file. All the values are separated by commas:
+Once the file is on your computer, right-click on it and, under **Open With**, choose **Text Edit (Mac)** or **WHAT(Windows)** to look at what's actually in the file. All the values are separated by commas:
 
-<img src="/images/walkthroughs/wt0.png" alt="ZERO" width="450"/>
+![pic zero](/images/walkthroughs/wt0.png)
 
-In your own Google Drive, open a new Sheet by clicking **+ New**, then **Google Sheets**, then **Blank Spreadsheet**
+Close the file and navigate to your Google Drive online.
 
-In the new Sheet, click on the name **Untitled Spreadsheet** on the top left and give your Sheet a name
+Open a new Sheet by clicking **+ New**, then **Google Sheets**, then **Blank Spreadsheet**
 
-Under File select **Import**, then **Upload**
+In the new Sheet, click on the **Untitled Spreadsheet** box on the top left and give your Sheet a name
+
+Under **File** select **Import**, then **Upload**
 
 Choose your **bags_2years.csv** file from your computer
 
@@ -22,40 +24,38 @@ If asked in a dialogue box about **Import Location**, select **Insert New Sheet*
 
 You should now have the CSV file in your Sheet:
 
-<img src="/images/walkthroughs/wt1.png" alt="one" width="450"/>
-
+![pic one](/images/walkthroughs/wt1.png)
 ---
 **ORGANISING YOUR SHEET**
 
-In the bottom left, there is a tab called **bags_2years**. Right click on the tab and select **Duplicate**. This will generate a new Sheet with a tab called **Copy of bags_2years**. Double click on this tab and rename it as **data**.
+In the bottom left, there is a tab called **bags_2years**. Right click on the tab and select **Duplicate**. This will generate a copy of your Sheet with a tab entitled **Copy of bags_2years**. Double click on this tab and rename it as **data**.
 
-<img src="/images/walkthroughs/wt2.png" alt="TWO" width="450"/>
+![pic two](/images/walkthroughs/wt2.png)
 
-Add a new empty Sheet by using the **+** button just to the left of the tabs. Give this the name **Source** and somewhere in the sheet paste the following url, which is the where the data in your file was taken:
+Add a new empty Sheet by using the **+** button just to the left of the tabs. Give this sheet the name **Source** and somewhere in the sheet paste the following url, which is the where the data in your CSV file came from:
 
 - https://data.gov.uk/dataset/682843a8-168c-4056-b6fe-741161a39f60/single-use-plastic-carrier-bags-charge-data-for-england
 
 ---
 **THE DATA**
 
-At this point we have imported the CSV file to a Sheet, we have named the Sheet and we have duplicated it so that we have a copy of the original data if we need it. We've also added the source for the data so that we you come back to work on this in six months we'll know where the data came from.
+At this point we have imported the CSV file to a Sheet, we have named the Sheet and we have duplicated it so that we have a copy of the original data if we need it. We've also added the source for the data so that if we come back to work on this in six months we'll know where the data came from.
 
-Your data has four columns:
+Our data has four columns:
 
 - Year
 - Company name
 - Number of single use plastic bags issued
 - Gross proceeds of charge (£)
 
-These are companies in England that charged customers for single-use plastic bags in 2018-19 and 2019-20. It shows how many bags each retailer issued and how much money it collected from charging customers for them. The data was published in 2020 by DEFRA, the Department for Environment, Food and Rural Affairs.
+It shows how many single-use plastic bags each major retailer issued in England in 2018-19 and 2019-20, and how much money they each collected from charging customers for them. The data was published in 2020 by DEFRA, the Department for Environment, Food and Rural Affairs.
 
 ---
 **NAVIGATING THE SHEET**
 
 ![pic three](/images/walkthroughs/wt3.png)
-<!-- .element style="border: 0; background: None; max-width: 60%" -->
 
-Under the menu **View**, choose **Freeze** then **1 row**. This will maintain the column names in place as you scroll down through the sheet.
+Under the menu **View**, choose **Freeze** then **1 row**. This will keep the column names in place as you scroll down through the sheet.
 
 You can adjust the width of the four columns.
 
