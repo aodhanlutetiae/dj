@@ -7,34 +7,15 @@
 ---
 **Question 1**
 
-— How can journalists mitigate what the author calls the “danger of speedy publication”?
+How can journalists mitigate what the author calls the “danger of speedy publication”?
 
 ---
 
 **Question 2**
 
-— What should journalists provide so that their work is reproducible?
+What should journalists provide so that their work is reproducible?
 
----
-
-**Question 3**
-
-What European country saw a handbook on CAR written in 1989?
-
----
-
-**Question 4**
-
-When was the Hacks/Hackers network started?
 
 ---
 
 **ANSWERS**
-
-Computer-assisted reporting
-
-Detroit riots
-
-Denmark
-
-In 2009
