@@ -1,20 +1,24 @@
-## Welcome to GitHub Pages
+## Module One: Data for journalism
 
 Getting started with analysing data for journalism
 
-## Learning
+## Learning (June 3+)
 
 - [Google Sheets walkthrough](https://aodhanlutetiae.github.io/dj/sheets)
 - [Reading 1](https://aodhanlutetiae.github.io/dj/reading1)
+- More
 - [Reading 2](https://aodhanlutetiae.github.io/dj/reading2)
 - [Reading 3](https://aodhanlutetiae.github.io/dj/reading3)
+---
 
-## Practice
+## Practice (June 14+)
 
-- [The weather in Sheffield](https://forms.gle/vE7qyvDxMPbysyo88)
 - [The free press around the world](https://forms.gle/1K3vwKRC9FR5JZdS8)
-- [The tube in London]
-- [The pubs in Wales]
+- [The weather in Sheffield](https://forms.gle/vE7qyvDxMPbysyo88)
+- [The tube in London](https://forms.gle/TEcZadFC7MkCMzBu5)
+- [The pubs in Wales](https://forms.gle/qrL5jyJ6Lkts5vscA)
+- [Finding data](https://aodhanlutetiae.github.io/dj/finding)
+---
 
 ## Resources
 
