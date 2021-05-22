@@ -10,9 +10,9 @@ Once the file is on your computer, right-click on it and, under **Open With**, c
 
 <br />
 ![pic zero](/images/walkthroughs/wt0.png)
-<br />
 
-Close the file and navigate to your Google Drive online.
+<br />
+Now that you've seen what's in your file, close it and navigate to your Google Drive online.
 
 Open a new Sheet by clicking **+ New**, then **Google Sheets**, then **Blank Spreadsheet**
 
@@ -25,8 +25,10 @@ Choose your **bags_2years.csv** file from your computer
 If asked in a dialogue box about **Import Location**, select **Insert New Sheet** and for **Separator Type**, choose **Comma** or **Detect Automatically**
 
 You should now have the CSV file in your Sheet:
+
 <br />
 ![pic one](/images/walkthroughs/wt1.png)
+
 <br />
 ---
 **ORGANISING YOUR SHEET**
@@ -35,8 +37,8 @@ In the bottom left, there is a tab called **bags_2years**. Right click on the ta
 
 <br />
 ![pic two](/images/walkthroughs/wt2.png)
-<br />
 
+<br />
 Add a new empty Sheet by using the **+** button just to the left of the tabs. Give this sheet the name **Source** and somewhere in the sheet paste the following url, which is the where the data in your CSV file came from:
 
 - https://data.gov.uk/dataset/682843a8-168c-4056-b6fe-741161a39f60/single-use-plastic-carrier-bags-charge-data-for-england
@@ -58,16 +60,41 @@ It shows how many single-use plastic bags each major retailer issued in England 
 ---
 **NAVIGATING THE SHEET**
 
-<br />
-![pic three](/images/walkthroughs/wt3.png)
-<br />
-
 Under the menu **View**, choose **Freeze** then **1 row**. This will keep the column names in place as you scroll down through the sheet.
 
+<br />
+![pic three](/images/walkthroughs/wt3.png)
+
+<br />
 You can adjust the width of the four columns.
 
+Use CMD and a down arrow to jump to the bottom of the dataset. Use CMD and a right arrow to jump to the right of the dataset and so on.
 
+Use CMD and SHIFT and arrows to select all the cells when you jump to the edge of the dataset.
 
+Select all the cells in Column B ('Company Name'). On the bottom right the Sheet will automatically supply a Count of the cells selected.
+
+<br />
+![pic four](/images/walkthroughs/wt4.png)
+
+<br />
+If you select all the cells in Column C ('Number of single use plastic bags issued') which has numbers rather than simply text, the automatic calculations supplied include numerical ones.
+
+<br />
+![pic five](/images/walkthroughs/wt5.png)
+
+<br />
+Adjust the number of decimal points showing in Column D ('Gross proceeds of charge (£)') by using the **Increase / Decrease Decimal Places** buttons
+
+<br />
+![pic six](/images/walkthroughs/wt6.png)
+
+<br />
+---
+**SORT & FILTER**
+Sort a column.
+
+Filter a column.
 
 
 ---
