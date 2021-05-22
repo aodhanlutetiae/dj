@@ -98,12 +98,44 @@ Adjust the number of decimal points showing in Column D ('Gross proceeds of char
 ---
 **SORT & FILTER**
 
-You can sort the contents of a column....
-
-You can filter a column...
+Select any cell in your data. In the menus, go to **Data** and choose **Create a filter**
 
 <br />
+![pic seven](/images/walkthroughs/wt7.png)
+
+<br />
+
+Now you can filter a column and select, for example, only the 2019-20 rows.
+
+<br />
+![pic eight](/images/walkthroughs/wt8.png)
+
+Go back to **Data** and choose **Remove filter**
+
+Beside the letter of each column (A, B, C etc.), there is a hidden triangle with a drop down menu. Clicking on this lets you select **Sort A-Z** or **Sort Z-A**. You can sort all the company names alphabetically. Or you can sort a column of numbers from the biggest to the smallest. Sort the Company Name column alphabetically.
+
+<br />
+![pic nine](/images/walkthroughs/wt9.png)
+
+Try sorting the "Number of single use plastic bags issued" column to see what company charged for the biggest (or smallest) number of bags over the two years.
+
+<br />
+
+---
+**USE A FORMULA**
+
+Go to the bottom of Column C and in the first empty cell type:
+
+>=SUM(C2:C416)
+
+This tells the spreadsheet to add all the values from row 2 to row 416 in column C. When you hit 'Enter' it will show the result of the sum.
+
 ---
 **FINALLY**
 
 Repeat all these steps with a different file: [the same data but for two earlier years, 2016 and 2017](https://drive.google.com/file/d/1O-d4UbCn90mY4fvSWBNeUOkUgY3GXoFi/view?usp=sharing)
+
+---
+**MORE**
+
+[GCF global, sections 8-16](https://edu.gcfglobal.org/en/googlespreadsheets) gives greater detail on some of the points covered here.

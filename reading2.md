@@ -3,6 +3,7 @@
 ### Houston, Brant. Fifty Years of Journalism and Data: A Brief History. GIJN. 2015.
 ---
 **Read [the text](https://gijn.org/2015/11/12/fifty-years-of-journalism-and-data-a-brief-history/) and answer the questions below.**
+
 ---
 **Question 1**
 
