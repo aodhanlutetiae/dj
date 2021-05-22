@@ -54,9 +54,9 @@ Our data has four columns:
 - Year
 - Company name
 - Number of single use plastic bags issued
-- Gross proceeds of charge (£)
+- Gross proceeds of charge
 
-It shows how many single-use plastic bags each major retailer issued in England in 2018-19 and 2019-20, and how much money they each collected from charging customers for the bags. The data was published in 2020 by the Department for Environment, Food and Rural Affairs (DEFRA).
+It shows how many single-use plastic bags each major retailer issued in England in 2018-19 and 2019-20, and how much money each collected from charging customers for the bags. The data was published in 2020 by the Department for Environment, Food and Rural Affairs (DEFRA).
 
 <br />
 ---
@@ -72,7 +72,7 @@ Adjust the width of the four columns.
 
 Use CMD and a down arrow to jump to the bottom of the dataset. Use CMD and a right arrow to jump to the right of the dataset and so on.
 
-Use CMD and SHIFT and arrows to select all the cells when you jump to the edge of the dataset.
+Use CMD and SHIFT and arrows to *select* all the cells when you jump to the edge of the dataset.
 
 Select all the cells in Column B ('Company Name'). On the bottom right the Sheet will automatically supply a Count of the cells selected.
 
@@ -80,7 +80,7 @@ Select all the cells in Column B ('Company Name'). On the bottom right the Sheet
 ![pic four](/images/walkthroughs/wt4.png)
 
 <br />
-If you select all the cells in Column C ('Number of single use plastic bags issued') which has numbers rather than simply text, the automatic calculations supplied include numerical ones.
+If you select all the cells in Column C ('Number of single use plastic bags issued'), which has numbers rather than simply text, the automatic calculations supplied on the bottom right include numerical ones.
 
 <br />
 ![pic five](/images/walkthroughs/wt5.png)
