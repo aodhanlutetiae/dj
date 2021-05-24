@@ -123,7 +123,7 @@ Try sorting the "Number of single use plastic bags issued" column to see what co
 <br />
 
 ---
-**FINALLY**
+**PRACTICE**
 
 Repeat all these steps with a different file: [the same data but for two earlier years, 2016 and 2017](https://drive.google.com/file/d/1O-d4UbCn90mY4fvSWBNeUOkUgY3GXoFi/view?usp=sharing)
 

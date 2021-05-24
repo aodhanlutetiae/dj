@@ -40,7 +40,7 @@ What should journalists provide so their work is reproducible: data or code?
 
 **1**
 That social distancing outperforms attempted quarantine
-> "News outlets have asserted, on the basis of in-house data analyses, that [...] social distancing will usually outperform attempted quarantine. That last item, produced by The Washington Post and buoyed by in-house computer simulations, was the most read article in the history of the publication’s website, according to Washington Post media reporter Paul Farhi."
+> "News outlets have asserted, on the basis of in-house data analyses, that [...] social distancing will usually outperform attempted quarantine. That last item, produced by The Washington Post and buoyed by in-house computer simulations, was the most read article in the history of the publication’s website"
 
 **2**
 The Propublica argument
