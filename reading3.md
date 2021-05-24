@@ -30,6 +30,12 @@ What should journalists provide so their work is reproducible: data or code?
 
 ---
 
+<br />
+
+<br />
+
+<br />
+
 **Answers**
 
 **1**
@@ -41,6 +47,7 @@ The Propublica argument
 > "And the ProPublica argument has stuck in the collective consciousness in a way that the scientific rebuttals — published in academic outlets with comparatively small readerships — have not. It continues to be widely cited today, both in news articles and in scholarly work."
 
 **3**
+Speedy correction
 > "If serious errors are identified, the original article should be amended or retracted, and notice of the amendment or retraction should be visible to all future visitors of the article. The danger of speedy publication can be mitigated by speedy correction. "
 
 **4**
