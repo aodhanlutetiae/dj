@@ -1,5 +1,5 @@
 # WALKTHROUGH: Get a CSV file into a Google Sheet
----
+
 > Context. In 20XX the UK government introduced a law on charging people for plastic bags in shops. This was updated in year 20XX when the charge was increased from 5p to 10p. The steps below walk through how to get the data into a spreadsheet and start to analyse it.
 
 ---
