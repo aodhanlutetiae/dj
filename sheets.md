@@ -1,4 +1,3 @@
-
 # WALKTHROUGH: Get a CSV file into a Google Sheet
 
 ---
@@ -120,15 +119,6 @@ Beside the letter of each column (A, B, C etc.), there is a hidden triangle with
 Try sorting the "Number of single use plastic bags issued" column to see what company charged for the biggest (or smallest) number of bags over the two years.
 
 <br />
-
----
-**USE A FORMULA**
-
-Go to the bottom of Column C and in the first empty cell type:
-
->=SUM(C2:C416)
-
-This tells the spreadsheet to add all the values from row 2 to row 416 in column C. When you hit 'Enter' it will show the result of the sum.
 
 ---
 **FINALLY**
