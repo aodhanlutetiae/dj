@@ -21,6 +21,7 @@ Getting started with analysing data for journalism
 - [Visualising more](https://aodhanlutetiae.github.io/dj/viz)
 - [The tube in London](https://forms.gle/TEcZadFC7MkCMzBu5)
 - [The pubs in Wales](https://forms.gle/qrL5jyJ6Lkts5vscA)
+- [Video: CIJ Pilhofer 2017](https://aodhanlutetiae.github.io/dj/vid)
 
 ---
 
