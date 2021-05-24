@@ -1,4 +1,6 @@
 # WALKTHROUGH: Get a CSV file into a Google Sheet
+---
+> Context. In 20XX the UK government introduced a law on charging people for plastic bags in shops. This was updated in year 20XX when the charge was increased from 5p to 10p. The steps below walk through how to get the data into a spreadsheet and start to analyse it.
 
 ---
 **IMPORTING YOUR FILE**
@@ -23,7 +25,7 @@ Choose your **bags_2years.csv** file from your computer
 
 If asked in a dialogue box about **Import Location**, select **Insert New Sheet** and for **Separator Type**, choose **Comma** or **Detect Automatically**
 
-You should now have the CSV file in your Google Sheet:
+You should now have the data from the CSV file in your Google Sheet:
 
 <br />
 ![pic one](/images/walkthroughs/wt1.png)
