@@ -5,7 +5,7 @@
 
 <br />
 - [Higher plastic bag charge comes into force in England (BBC)](https://www.bbc.co.uk/news/business-57193108)
-- [Government guidelines to retailers](https://www.gov.uk/guidance/carrier-bag-charges-retailers-responsibilities)
+- [Government guidance to retailers on carrier bag charges](https://www.gov.uk/guidance/carrier-bag-charges-retailers-responsibilities)
 
 <br />
 ---
