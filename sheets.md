@@ -1,21 +1,35 @@
 # WALKTHROUGH: Get a CSV file into a Google Sheet
 
-> Context. In 20XX the UK government introduced a law on charging people for plastic bags in shops. This was updated in year 20XX when the charge was increased from 5p to 10p. The steps below walk through how to get the data into a spreadsheet and start to analyse it.
+> Context. Since 2015, customers in England have had to pay a 5p levy for single-use plastic bags in shops. This was increased to 10p last month(May 2021). Larger retailers have not only to charge customers but must also collect data on the numbers of bags given to customers and what they did with the money. The steps below walk through how to get some of this data into a spreadsheet and start to analyse it.
+
+- [Higher plastic bag charge comes into force in England (BBC)](https://www.bbc.co.uk/news/business-57193108)
+- [Government guidelines to retailers](https://www.gov.uk/guidance/carrier-bag-charges-retailers-responsibilities)
+
+**Help! I'm using Microsoft Excel, not Google Sheets!**
+
+- Help is [here](https://aodhanlutetiae.github.io/dj/excel).
 
 ---
 **IMPORTING YOUR FILE**
 
 Download the following CSV file to your computer: [bags_2years.csv](https://drive.google.com/file/d/15vDqg-u6W4tHouC42uvhMOdy21oTl3ov/view?usp=sharing)
 
-Once the file is on your computer, right-click on it and, under **Open With**, choose **Text Edit (Mac)** or **WHAT(Windows)** to look at what's actually in the file. All the values are separated by commas:
+Once the file is on your computer, right-click on it and, under **Open With**, choose **Text Edit (Mac)** or **WHAT(Windows)** to look at what's actually in the file.
+
+It's a bit of a jumble but you can see that all the values are separated by commas:
 
 <br />
 ![pic zero](/images/walkthroughs/wt0.png)
 
 <br />
-Now that you've seen what's in your file, close it and navigate to your Google Drive online.
+Now that you've seen what's inside your file, close it and navigate to a Google Drive online
 
 Open a new Sheet by clicking **+ New**, then **Google Sheets**, then **Blank Spreadsheet**
+
+<br />
+![pic new](/images/walkthroughs/wt_new.png)
+
+<br />
 
 In the new Sheet, click on the **Untitled Spreadsheet** box on the top left and give your Sheet a name
 
@@ -34,13 +48,13 @@ You should now have the data from the CSV file in your Google Sheet:
 ---
 **ORGANISING YOUR SHEET**
 
-In the bottom left, there is a tab called **bags_2years**. Right click on the tab and select **Duplicate**. This will generate a copy of your Sheet with a tab entitled **Copy of bags_2years**. Double click on this tab and rename it as **data**.
+In the bottom left, your sheet will have a tab called **bags_2years**. Right click on the tab and select **Duplicate**. This will generate a copy of your Sheet with a tab entitled **Copy of bags_2years**. Double click on this tab and rename it as **data**.
 
 <br />
-![pic two](/images/walkthroughs/wt2.png)
+![pic two](/images/walkthroughs/wt_dup.png)
 
 <br />
-Add a new empty Sheet by using the **+** button just to the left of the tabs. Give this sheet the name **Source** and somewhere in the sheet paste the following url, which is the where the data in your CSV file came from:
+Add another Sheet by using the **+** button just to the left of the tabs. Give this sheet the name **Source** and somewhere in the sheet paste the following url, which is the where the data in your CSV file came from:
 
 - https://data.gov.uk/dataset/682843a8-168c-4056-b6fe-741161a39f60/single-use-plastic-carrier-bags-charge-data-for-england
 
@@ -69,19 +83,19 @@ Under the menu **View**, choose **Freeze** then **1 row**. This will keep the co
 ![pic three](/images/walkthroughs/wt3.png)
 
 <br />
-Adjust the width of the four columns.
+Adjust the width of the four columns (Widen or narrow in the row containing the column letter names: A, B, C etc.)
 
 Use CMD and a down arrow to jump to the bottom of the dataset. Use CMD and a right arrow to jump to the right of the dataset and so on.
 
 Use CMD and SHIFT and arrows to *select* all the cells when you jump to the edge of the dataset.
 
-Select all the cells in Column B ('Company Name'). On the bottom right the Sheet will automatically supply a Count of the cells selected.
+Select all the cells in Column B ('Company Name'). On the bottom right the Sheet will automatically supply a Count of the cells that contain information.
 
 <br />
 ![pic four](/images/walkthroughs/wt4.png)
 
 <br />
-If you select all the cells in Column C ('Number of single use plastic bags issued'), which has numbers rather than simply text, the automatic calculations supplied on the bottom right include numerical ones.
+If you select all the cells in Column C ('Number of single use plastic bags issued') that have numbers, the there will be numerical calculations and not simply a count.
 
 <br />
 ![pic five](/images/walkthroughs/wt5.png)
@@ -106,11 +120,12 @@ Select any cell in your data. In the menus, go to **Data** and choose **Create a
 
 <br />
 
-Now you can filter a column and select, for example, only the 2019-20 rows.
+Now you can filter a column and select, for example, only the 2019-20 rows
 
 <br />
-![pic eight](/images/walkthroughs/wt8.png)
+![pic filter](/images/walkthroughs/wt_filter.png)
 
+<br />
 Go back to **Data** and choose **Remove filter**
 
 Beside the letter of each column (A, B, C etc.), there is a hidden triangle with a drop down menu. Clicking on this lets you select **Sort A-Z** or **Sort Z-A**. You can sort all the company names alphabetically. Or you can sort a column of numbers from the biggest to the smallest. Sort the Company Name column alphabetically.
@@ -118,14 +133,11 @@ Beside the letter of each column (A, B, C etc.), there is a hidden triangle with
 <br />
 ![pic nine](/images/walkthroughs/wt9.png)
 
+<br />
+
 Try sorting the "Number of single use plastic bags issued" column to see what company charged for the biggest (or smallest) number of bags over the two years.
 
 <br />
-
----
-**PRACTICE**
-
-Repeat all these steps with a different file: [the same data but for two earlier years, 2016 and 2017](https://drive.google.com/file/d/1O-d4UbCn90mY4fvSWBNeUOkUgY3GXoFi/view?usp=sharing)
 
 ---
 **MORE**

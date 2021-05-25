@@ -1,5 +1,6 @@
 # WALKTHROUGH: Simple bar chart in datawrapper
 
+**Prepare your data**
 Open the spreadsheet you used for plastic bags in England. Alternatively, import the data again from the [bags_2years.csv](https://drive.google.com/file/d/15vDqg-u6W4tHouC42uvhMOdy21oTl3ov/view?usp=sharing) to a new Google Sheet. Organise the sheet as shown in the [first Walkthrough](https://aodhanlutetiae.github.io/dj/sheets) then filter the years column to show only 2019-20 and sort the column 'Number of single use plastic bags' column ('from Z-A') so the data is organised with the biggest numbers at the top.
 
 Now select the first eleven rows (including the column headers).
