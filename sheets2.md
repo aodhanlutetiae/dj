@@ -1,4 +1,4 @@
-# WALKTHROUGH: Calculations in a Google Sheet
+# WALKTHROUGH: Calculations in a spreadsheet
 
 > Introduction. The fastest way to interview a dataset ("Who had the most...?", "Which company changed the least...?" etc.) is often to use built-in functions that take the information in cells and calculate for example the maximum value, or the average value, or the sum of all the values.
 

@@ -4,11 +4,11 @@ Getting started with analysing data for journalism
 
 ## Learning (June 3+)
 
-- [Google Sheets walkthrough 1](https://aodhanlutetiae.github.io/dj/sheets)
+- [Spreadsheet walkthrough 1](https://aodhanlutetiae.github.io/dj/sheets)
 - [Reading 1](https://aodhanlutetiae.github.io/dj/reading1)
 - [Basic bar chart](https://aodhanlutetiae.github.io/dj/bar)
 - [Reading 2](https://aodhanlutetiae.github.io/dj/reading2)
-- [Google Sheets walkthrough 2](https://aodhanlutetiae.github.io/dj/sheets2)
+- [Spreadsheet walkthrough 2](https://aodhanlutetiae.github.io/dj/sheets2)
 - [Reading 3](https://aodhanlutetiae.github.io/dj/reading3)
 
 ---

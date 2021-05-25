@@ -1,14 +1,12 @@
-# WALKTHROUGH: Get a CSV file into a Google Sheet
+# WALKTHROUGH: Get a CSV file into a spreadsheet
 
-> Context. Since 2015, customers in England have had to pay a 5p levy for single-use plastic bags in shops. This was increased to 10p last month(May 2021). Larger retailers have not only to charge customers but must also collect data on the numbers of bags given to customers and what they did with the money. The steps below walk through how to get some of this data into a spreadsheet and start to analyse it.
+<br />
+> Context. Since 2015, customers in England have had to pay a 5p levy for single-use plastic bags in shops. This was increased to 10p last month (May 2021). Larger retailers have not only to charge customers but must also collect data on the numbers of bags given to customers and what they did with the money. The steps below walk through how to get some of this data into a spreadsheet and start to analyse it.
 
 - [Higher plastic bag charge comes into force in England (BBC)](https://www.bbc.co.uk/news/business-57193108)
 - [Government guidelines to retailers](https://www.gov.uk/guidance/carrier-bag-charges-retailers-responsibilities)
 
-**Help! I'm using Microsoft Excel, not Google Sheets!**
-
-- Help is [here](https://aodhanlutetiae.github.io/dj/excel).
-
+<br />
 ---
 **IMPORTING YOUR FILE**
 
@@ -27,6 +25,7 @@ Now that you've seen what's inside your file, close it and navigate to a Google 
 Open a new Sheet by clicking **+ New**, then **Google Sheets**, then **Blank Spreadsheet**
 
 <br />
+
 ![pic new](/images/walkthroughs/wt_new.png)
 
 <br />
@@ -109,8 +108,6 @@ Adjust the number of decimal points showing in Column D ('Gross proceeds of char
 <br />
 ---
 
-<br />
----
 **SORT & FILTER**
 
 Select any cell in your data. In the menus, go to **Data** and choose **Create a filter**
@@ -123,6 +120,7 @@ Select any cell in your data. In the menus, go to **Data** and choose **Create a
 Now you can filter a column and select, for example, only the 2019-20 rows
 
 <br />
+
 ![pic filter](/images/walkthroughs/wt_filter.png)
 
 <br />
