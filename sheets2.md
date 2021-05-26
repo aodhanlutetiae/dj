@@ -1,5 +1,6 @@
 # WALKTHROUGH: Calculations in a spreadsheet
 
+<br />
 > Often, the fastest way to interview a dataset ("Who had the most...?", "Which company changed the least...?" etc.) is to use simple calculations or built-in functions that take the information in cells and calculate, for example, the maximum value, or the average value, or the sum of all the values and so on.
 
 <br />
@@ -15,17 +16,12 @@ It will give you the sum of the cells C2, C3 and C4, which is the total number o
 ![pic zero](/images/walkthroughs/wt_calc.png)
 
 <br />
-When you select the cell (which probably shows a figure around 280 million), you can see the calculation (=C2+C3+C4) in the upper left of the Sheet. So you understand where the number came from
+When you select the cell (which probably shows a figure around 280 million), you can see the calculation (=C2+C3+C4) in the upper left of the Sheet which shows where the number came from.
 
 <br />
 >=D2/C2
 
-is a simple caluclation to divide one cell by another. It will divide the money taken in by Ocado (D2) by the number of bags (C2) given out by Ocado and show you how much was paid per bag by customers.
-
-<br />
->=SUM(C2:C11)
-
-will give you the sum of the top three retailer chains (by numbers of bags)
+is a simple calculation to divide one cell by another. It will divide the money taken in by Ocado (D2) by the number of bags (C2) given out by Ocado and show you how much was paid per bag by customers.
 
 <br />
 >=SUM(C2:C11)
@@ -40,7 +36,7 @@ will give you the average number of bags a "top ten" retailer chain handed out
 <br />
 >=SUM(C2:C196)
 
-will add all the numbers in Column C and give you the total number of bags
+will add all the numbers in Column C and give you the total number of bags for all the retailers in 2019
 
 <br />
 >=SUM(C2:C196) / 52
@@ -50,9 +46,9 @@ takes the total number of bags for these retailer chains in 2019, and divides by
 <br />
 >=COUNTA(B2:B195)
 
-or 'Count A' will count *all* items in a column (not just numbers). Here it returns 194 for the number of retailers
+'Count A' will count *all* items in a column (not just numbers). Here it returns 194 for the number of retailers
 
 <br />
 >=COUNTIF(B2:B195, '*University*')
 
-will count any cells in which the word 'University' appears. The * is a wildcard and means anything can appear right before or right after the word.
+'Count if' will count any cells only if the word 'University' appears. The * is a wildcard and means anything can appear right before or right after the word.

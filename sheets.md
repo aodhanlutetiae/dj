@@ -1,5 +1,6 @@
 # WALKTHROUGH: Get a CSV file into a spreadsheet
 
+<br />
 > Background. Since 2015, shoppers in England have had to pay a 5p levy for single-use plastic bags. This was increased to 10p in May 2021. Larger retailers have not only to charge customers but must also collect data on the numbers of bags given to customers, the money collected and what they did with the money. The steps below walk through how to get some of this data into a spreadsheet and start to analyse it.
 
 <br />

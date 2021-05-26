@@ -5,11 +5,11 @@
 <br />
 **PREPARE YOUR DATA**
 
-It's a good idea to prepare your data before visualising it so that it doesn't require adjusting or editing when you're visualising it. Open the spreadsheet you used for plastic bags in England. Alternatively, import the data again from the [bags_2years.csv](https://drive.google.com/file/d/15vDqg-u6W4tHouC42uvhMOdy21oTl3ov/view?usp=sharing) file to a new spreadsheet.
+It's a good idea to prepare your data first so that it doesn't require adjusting or editing while you're visualising it. Open the spreadsheet you used for plastic bags in England. Alternatively, import the data again from the [bags_2years.csv](https://drive.google.com/file/d/15vDqg-u6W4tHouC42uvhMOdy21oTl3ov/view?usp=sharing) file to a new spreadsheet.
 
-Organise the sheet as shown in the [first Walkthrough](https://aodhanlutetiae.github.io/dj/sheets) then filter the years column to show only 2019-20 and sort the column 'Number of single use plastic bags' column ('from Z-A') so the data is organised with the biggest numbers at the top.
+Organise the sheet as shown in the [first Walkthrough](https://aodhanlutetiae.github.io/dj/sheets) then filter the Year column to show only 2019-20 and sort the column 'Number of single use plastic bags' column ('from Z-A') so the data is organised with the biggest numbers at the top.
 
-Now select the first eleven rows (including the column headers).
+Now select all the data in the first eleven rows (including the column headers).
 
 <br />
 ![pic zero](/images/walkthroughs/wtvz0.png)
@@ -17,19 +17,19 @@ Now select the first eleven rows (including the column headers).
 <br />
 Copy the rows (either **Edit**/**Copy** in the menu or CMD + C. Add a new sheet using the **+** in the bottom left. Paste the copied rows into the new sheet.
 
-Clean up the data:
-- Remove the year column since all entries are the same (2019-20)
+In this new Sheet, clean up the data:
+- Remove the 'Year' column (right click + Delete) all the cells repeat the same thing '2019'
 - Simplify the column names (for example: company, number of bags, proceeds (£))
 - Hide the decimal points from the proceeds column
 - Simplify the names of the retailers where you think it's a good idea
 
-Now in **File**, choose **Download** and **Comma-separated values** and save the sheet somewhere on your computer.
+Now in **File**, choose **Download** and **Comma-separated values** and save the file somewhere on your computer.
 
 <br />
 ![pic one](/images/walkthroughs/wtvz1.png)
 
 <br />
-Visit the [Datawrapper](https://app.datawrapper.de/chart/j6BRV/upload) site.
+Visit the [Datawrapper](https://app.datawrapper.de/chart/spj9p/upload) site.
 
 Under the question **How do you want to upload your data?**, choose the second tab **XLS/CSV upload**
 
@@ -39,9 +39,24 @@ Under the question **How do you want to upload your data?**, choose the second t
 <br />
 Check that the data has been imported correctly. Then hit **Proceed**
 
-You now have a basic chart but it needs to be adjusted so it's clear to the reader what it contains. Use the four tabs **Chart type**, **Refine**, **Annotate** and **Layout** to refine your bar chart
+You now have a chart but it needs to be adjusted so it's clear to the reader what it contains. Use the four tabs **Chart type**, **Refine**, **Annotate** and **Layout** to refine your bar chart
+
+**Chart type**
+The most effective type of chart in this case is probably the first, Bar Chart. But you can select other types of chart and see what works with the data you've imported.
+
+**Refine**
+Adjust the appearance of the graph.
+
+**Annotate**
+Add the text to explain what the chart is, and what the source is.
+
+**Layout**
+Here you can adjust what appears at the bottom of the chart. You can include a link for the user to download the data as a CSV file, or to download the chart as a .png image.
 
 <br />
 ![pic two](/images/walkthroughs/wt_gfx1.png)
 
-When you are happy with the chart, move to the last tab and publish it or save it locally.
+Once you're finished you can have it emailed to you (which involves setting up an account) or if you included Download and Embed options when adjusting the Layout you can use them.
+
+<br />
+![pic two](/images/walkthroughs/wt_embed.png)
