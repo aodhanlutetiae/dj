@@ -1,7 +1,9 @@
 # WALKTHROUGH: Get a CSV file into a spreadsheet
 
+*[Back to main page](https://aodhanlutetiae.github.io/dj/)*
+
 <br />
-> Context. Since 2015, customers in England have had to pay a 5p levy for single-use plastic bags in shops. This was increased to 10p last month (May 2021). Larger retailers have not only to charge customers but must also collect data on the numbers of bags given to customers and what they did with the money. The steps below walk through how to get some of this data into a spreadsheet and start to analyse it.
+> Context. Since 2015, shoppers in England have had to pay a 5p levy for single-use plastic bags. This was increased to 10p in May 2021. Larger retailers have not only to charge customers but must also collect data on the numbers of bags given to customers, the money collected and what they did with the money. The steps below walk through how to get some of this data into a spreadsheet and start to analyse it.
 
 <br />
 - [Higher plastic bag charge comes into force in England (BBC)](https://www.bbc.co.uk/news/business-57193108)
@@ -13,9 +15,9 @@
 
 Download the following CSV file to your computer: [bags_2years.csv](https://drive.google.com/file/d/15vDqg-u6W4tHouC42uvhMOdy21oTl3ov/view?usp=sharing)
 
-Once the file is on your computer, right-click on it and, under **Open With**, choose **Text Edit (Mac)** or **WHAT(Windows)** to look at what's actually in the file.
+Once the file is on your computer, right-click on it and, under **Open With**, choose the **Text Edit** or **Notepad** programme to look at what's actually in the file.
 
-It's a bit of a jumble but you can see that all the values are separated by commas:
+It's a bit of a jumble but you can see that all the pieces of information are separated by commas:
 
 <br />
 ![pic zero](/images/walkthroughs/wt0.png)
@@ -95,7 +97,7 @@ Select all the cells in Column B ('Company Name'). On the bottom right the Sheet
 ![pic four](/images/walkthroughs/wt4.png)
 
 <br />
-If you select all the cells in Column C ('Number of single use plastic bags issued') that have numbers, the there will be numerical calculations and not simply a count.
+If you select all the cells in Column C ('Number of single use plastic bags issued') that have numbers, there will be numerical calculations in the bottom right and not simply a count of the number of cells.
 
 <br />
 ![pic five](/images/walkthroughs/wt5.png)
@@ -141,4 +143,4 @@ Try sorting the "Number of single use plastic bags issued" column to see what co
 ---
 **MORE**
 
-[GCF global, sections 8-16](https://edu.gcfglobal.org/en/googlespreadsheets) gives greater detail on some of the points covered here.
+The learning platform GCF has more tutorials [more tutorials (sections 8-16)](https://edu.gcfglobal.org/en/googlespreadsheets) on the steps above.
