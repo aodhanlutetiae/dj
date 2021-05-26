@@ -31,12 +31,12 @@ will give you the sum of the top ten retailer chains (by numbers of bags)
 <br />
 >=AVERAGE(C2:C11)
 
-will give you the average number of bags a "top ten" retailer chain handed out
+will give you the average number of bags handed out by a retailer chain in the top ten
 
 <br />
 >=SUM(C2:C196)
 
-will add all the numbers in Column C and give you the total number of bags for all the retailers in 2019
+will add all the numbers in Column C and give you the total number of bags for all the retailers in 2019-20.
 
 <br />
 >=SUM(C2:C196) / 52
