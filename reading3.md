@@ -2,7 +2,7 @@
 ---
 ### Cabreros, Ireneo. Opinion: Side-Stepping Safeguards, Data Journalists Are Doing Science Now. Undark. April 2021
 ---
-**Read [the text](https://undark.org/2021/04/22/data-journalists-are-doing-science/) and answer the questions below**
+**Read [the text](https://undark.org/2021/04/22/data-journalists-are-doing-science/) and answer the questions below | (Answers are at the bottom of the page)**
 
 ---
 **Question 1**

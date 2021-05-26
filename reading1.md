@@ -2,7 +2,7 @@
 ---
 ### Barr, Caelainn. Building Your Own Data Set: Documenting Knife Crime in the United Kingdom. In Bounegru, Liliana & Gray, Jonathan (eds.). The data journalism handbook: towards a critical data practice. Amsterdam University Press, 2021, p. 49-54.
 ---
-**Read [the text](https://library.oapen.org/bitstream/handle/20.500.12657/47509/9789048542079.pdf#Gray_Colour.indd%3A.307590%3A2663) and answer the questions below. (Answers appear at the bottom of the page)**
+**Read [the text](https://library.oapen.org/bitstream/handle/20.500.12657/47509/9789048542079.pdf#Gray_Colour.indd%3A.307590%3A2663) and answer the questions below | (Answers are at the bottom of the page)**
 
 ---
 **Question 1**
