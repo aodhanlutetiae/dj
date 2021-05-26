@@ -1,6 +1,6 @@
 ## Module One: Data for news and journalism
 
-Getting started with using data for journalism
+Getting started with using data for journalism. Boo!
 
 ## Learning (June 3+)
 
@@ -23,15 +23,14 @@ Getting started with using data for journalism
 - [The pubs in Wales](https://forms.gle/qrL5jyJ6Lkts5vscA)
 - [Video: CIJ Pilhofer 2017](https://aodhanlutetiae.github.io/dj/vid) -->
 
-<br />
 ---
 
 ## Resources
 
-- [Google drive: bit.ly/app_data_jomec](https://bit.ly/app_data_jomec)
+- [Data journalism community](https://aodhanlutetiae.github.io/dj/res)
 - [Data journalism reading list, Jomec](https://dj-reading.readthedocs.io/en/latest/#)
 - [Data resources, Jomec](https://aodhanlutetiae.github.io/j_book/intro.html)
-- [Data journalism community](https://aodhanlutetiae.github.io/dj/res)
+- [Google drive: bit.ly/app_data_jomec](https://bit.ly/app_data_jomec)
 
 ---
 
