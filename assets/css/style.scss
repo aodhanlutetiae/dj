@@ -4,11 +4,12 @@
 @import "{{ site.theme }}";
 
   .btn {
-    // color: #0000ff;
-    color: #ff4d4d;
+    color: #0000ff;
+    text: 'home';
     border-color: #0000ff;
     // background-color: #008CBA;
   }
+
 
   .btn:hover {
     color: #0bb6e1cc;
