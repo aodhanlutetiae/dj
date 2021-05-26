@@ -27,6 +27,8 @@ Now in **File**, choose **Download** and **Comma-separated values** and save the
 ![pic one](/images/walkthroughs/wtvz1.png)
 
 <br />
+**INGEST YOUR DATA**
+
 Visit the [Datawrapper](https://app.datawrapper.de/chart/spj9p/upload) site.
 
 Under the question **How do you want to upload your data?**, choose the second tab **XLS/CSV upload**
@@ -54,7 +56,7 @@ Here you can adjust what appears at the bottom of the chart. You can include a l
 <br />
 ![pic two](/images/walkthroughs/wt_gfx1.png)
 
-Once you're finished you can have it emailed to you (which involves setting up an account) or if you included **Download** and **Embed** options when adjusting the **Layout** you can use those.
+Once you're finished you can have it emailed to you (which involves setting up an account) or if you included **Download** and **Embed** options when adjusting the **Layout** you can use those to save the chart.
 
 <br />
 ![pic two](/images/walkthroughs/wt_embed.png)
