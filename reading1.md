@@ -64,4 +64,5 @@ Six
 Social media, police reports, papers
 > "As there was no public or centrally collated data we decided to keep track of the information ourselves, through police reports, news clippings, Google Alerts, Facebook and Twitter" (p. 53)
 
+<br />
 *[Back to main page](https://aodhanlutetiae.github.io/dj/)*
