@@ -59,4 +59,4 @@ or 'Count A' will count *all* items in a column (not just numbers). Here it retu
 <br />
 >=COUNTIF(B2:B195, '*University*')
 
-will count any cells in which the word 'University appears'. The * means anything can appear right before or right after the word.
+will count any cells in which the word 'University appears'. The * is a wildcard and means anything can appear right before or right after the word.
