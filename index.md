@@ -23,6 +23,7 @@ Getting started with using data for journalism
 - [The pubs in Wales](https://forms.gle/qrL5jyJ6Lkts5vscA)
 - [Video: CIJ Pilhofer 2017](https://aodhanlutetiae.github.io/dj/vid) -->
 
+<br />
 ---
 
 ## Resources
