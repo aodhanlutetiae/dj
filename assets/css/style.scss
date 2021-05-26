@@ -3,13 +3,16 @@
 
 @import "{{ site.theme }}";
 
-  .btn {
-    color: #0000ff;
-    content:"home";
+  .btn {content:"home";}
+
+  .btn:hover {content:"home";}
+  
+    // color: #0000ff;
+    // content:"home";
     // text: 'home';
     // border-color: #0000ff;
     // background-color: #008CBA;
-  }
+
 
   // .btn:hover {
   //   color: #0bb6e1cc;
