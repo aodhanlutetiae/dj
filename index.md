@@ -1,6 +1,6 @@
 ## Module One: Data for news and journalism
 
-Getting started with using data for journalism. Boo!
+Getting started with data for journalism
 
 ## Learning (June 3+)
 
