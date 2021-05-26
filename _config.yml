@@ -1,1 +1,9 @@
 theme: jekyll-theme-cayman
+
+github:
+  repository_url: https://aodhanlutetiae.github.io/dj/
+
+# Setup
+title:        DJ
+tagline:      Doing journalism with data
+# baseurl:      ""

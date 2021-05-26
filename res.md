@@ -11,7 +11,7 @@
 - [Jeremy Singer-Vine (Data is Plural) *](https://www.data-is-plural.com/)
 - [Sophie Warnes (Fair Warning) *](https://www.getrevue.co/profile/FairWarning)
 
-* includes an archive of older emails that have been sent out so you can browse previous content.
+\* includes an archive of older emails that have been sent out so you can browse older content
 
 ---
 
