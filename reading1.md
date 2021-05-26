@@ -1,7 +1,5 @@
 # Reading one
 ---
-*[Back to main page](https://aodhanlutetiae.github.io/dj/)*
----
 ### Barr, Caelainn. Building Your Own Data Set: Documenting Knife Crime in the United Kingdom. In Bounegru, Liliana & Gray, Jonathan (eds.). The data journalism handbook: towards a critical data practice. Amsterdam University Press, 2021, p. 49-54.
 ---
 **Read [the text](https://library.oapen.org/bitstream/handle/20.500.12657/47509/9789048542079.pdf#Gray_Colour.indd%3A.307590%3A2663) and answer the questions below. (Answers appear at the bottom of the page)**
@@ -65,7 +63,5 @@ Six
 **4**
 Social media, police reports, papers
 > "As there was no public or centrally collated data we decided to keep track of the information ourselves, through police reports, news clippings, Google Alerts, Facebook and Twitter" (p. 53)
-
----
 
 *[Back to main page](https://aodhanlutetiae.github.io/dj/)*

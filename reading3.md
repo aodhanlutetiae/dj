@@ -53,3 +53,5 @@ Speedy correction
 **4**
 Both data and code
 > "Efforts at reproducibility have been made by some outlets, but they have been inconsistent and often incomplete. For instance a New York Times article on “the pandemic’s hidden death toll” includes a link to the relevant dataset, but not to any of the code used to analyze it."
+
+*[Back to main page](https://aodhanlutetiae.github.io/dj/)*

@@ -145,5 +145,4 @@ Try sorting the "Number of single use plastic bags issued" column to see what co
 
 The learning platform GCF has [more tutorials (sections 8-16)](https://edu.gcfglobal.org/en/googlespreadsheets) on the steps above.
 
----
 *[Back to main page](https://aodhanlutetiae.github.io/dj/)*
