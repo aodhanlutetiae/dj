@@ -1,7 +1,5 @@
 # WALKTHROUGH: Calculations in a spreadsheet
 
-*[Back to main page](https://aodhanlutetiae.github.io/dj/)*
-
 > Often, the fastest way to interview a dataset ("Who had the most...?", "Which company changed the least...?" etc.) is to use simple calculations or built-in functions that take the information in cells and calculate, for example, the maximum value, or the average value, or the sum of all the values and so on.
 
 <br />
