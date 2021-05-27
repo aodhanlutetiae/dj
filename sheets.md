@@ -48,6 +48,8 @@ You should now have the data from the CSV file in your Google Sheet:
 ---
 **ORGANISING YOUR SHEET**
 
+Adjust the width of the four columns (Widen or narrow in the row containing the column letter names: A, B, C etc.). There are several data types here and **numbers** are aligned on the right, while **text** is aligned on the left.
+
 In the bottom left, your sheet will have a tab called **bags_2years**. Right click on the tab and select **Duplicate**. This will generate a copy of your Sheet with a tab entitled **Copy of bags_2years**. Double click on this tab and rename it as **data**.
 
 <br />
@@ -83,8 +85,6 @@ Under the menu **View**, choose **Freeze** then **1 row**. This will keep the co
 ![pic three](/images/walkthroughs/wt3.png)
 
 <br />
-Adjust the width of the four columns (Widen or narrow in the row containing the column letter names: A, B, C etc.)
-
 Use CMD and a down arrow to jump to the bottom of the dataset. Use CMD and a right arrow to jump to the right of the dataset and so on.
 
 Use CMD and SHIFT and arrows to *select* all the cells when you jump to the edge of the dataset.

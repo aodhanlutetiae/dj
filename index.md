@@ -1,6 +1,6 @@
 ## Module One: Data for news and journalism
 
-Getting started with data for journalism
+Techniques, ideas and practice for using data to produce journalism
 
 ## Learning (June 3+)
 
