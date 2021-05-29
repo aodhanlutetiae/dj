@@ -3,13 +3,14 @@
 **Email newsletters (journalism + data)**
 
 - [Bureau Local](https://www.thebureauinvestigates.com/explainers/join-our-network)
+- [Data is plural (Jeremy Singer-Vine) *](https://www.data-is-plural.com/)
 - [Economist](https://www.economist.com/offthecharts/)
 - [European Journalism Centre](https://ejc.net/newsletters)
+- [Fair Warning (Sophie Warnes) *](https://www.getrevue.co/profile/FairWarning)
 - [Global Investigative Journalism Network](https://gijn.us5.list-manage.com/subscribe?u=0212d7db984672e4fe5ac3daf&id=eae0e8c5a9)
 - [Hacks Hackers London](https://www.hackshackersldn.co.uk/join)
 - [Hacks Hackers (World)](https://www.hackshackers.com/)
-- [Jeremy Singer-Vine (Data is Plural) *](https://www.data-is-plural.com/)
-- [Sophie Warnes (Fair Warning) *](https://www.getrevue.co/profile/FairWarning)
+
 
 \* includes an archive of older emails that have been sent out so you can browse older content
 
