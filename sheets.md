@@ -1,7 +1,8 @@
 # WALKTHROUGH: Get a CSV file into a spreadsheet
 
 <br />
-> Background. Since 2015, shoppers in England have had to pay a 5p levy for single-use plastic bags. This was increased to 10p in May 2021. Larger retailers have not only to charge customers but must also collect data on the numbers of bags given to customers, the money collected and what they did with the money. The steps below walk through how to get some of this data into a spreadsheet and start to analyse it.
+> Background. Since 2015, shoppers in England have had to pay a 5p levy for single-use plastic bags. This was increased to 10p in May 2021.
+Larger retailers not only have to charge customers but must also collect data on the numbers of bags given to customers, the money collected and what they did with the money. The steps below walk through how to get some of this data into a spreadsheet and start to analyse it.
 
 <br />
 - [Higher plastic bag charge comes into force in England (BBC)](https://www.bbc.co.uk/news/business-57193108)
@@ -48,7 +49,7 @@ You should now have the data from the CSV file in your Google Sheet:
 ---
 **ORGANISING YOUR SHEET**
 
-Adjust the width of the four columns (Widen or narrow in the row containing the column letter names: A, B, C etc.). There are several data types here and **numbers** are aligned on the right, while **text** is aligned on the left.
+Adjust the width of the four columns (Widen or narrow by dragging the row containing the column letter names: A, B, C etc.). There are several data types here and **numbers** are aligned on the right, while **text** is aligned on the left.
 
 In the bottom left, your sheet will have a tab called **bags_2years**. Right click on the tab and select **Duplicate**. This will generate a copy of your Sheet with a tab entitled **Copy of bags_2years**. Double click on this tab and rename it as **data**.
 

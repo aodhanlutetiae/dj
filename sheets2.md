@@ -4,7 +4,7 @@
 > Often, the fastest way to interview a dataset ("Who had the most...?", "Which company changed the least...?" etc.) is to use simple calculations or functions that are built into your spreadsheet programme that take the information in cells and calculate, for example, the maximum value, or the average value, or the sum of all the values and so on.
 
 <br />
-Taking the plastic bags dataset [you've already used](https://aodhanlutetiae.github.io/dj/sheets), filter for just the year 2019 then copy all cells with information and paste them into a new sheet. Sort by 'Number of bags', so the biggest numbers are at the top (Z-A).
+Taking the plastic bags dataset [you've already used](https://aodhanlutetiae.github.io/dj/sheets), filter for just the year 2019-20 then copy all cells with information and paste them into a new sheet. Sort by 'Number of bags', so the biggest numbers are at the top (Z-A).
 
 Type this into any available empty cell and hit Enter.
 
