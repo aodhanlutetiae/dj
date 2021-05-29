@@ -1,6 +1,6 @@
 # WALKTHROUGH: Simple bar chart in datawrapper
 
-> There are many tools available for visualising data, all different in cost, complexity and what they can do. [Datawrapper](https://www.datawrapper.de/) and [Flourish](https://flourish.studio/) are two online tools that offer a lot for free and let you publish or embed charts quickly. Below, we take some simple data and start to create a bar chart in Datawrapper. You can then explore the tool to see how best to finish the chart.
+> There are many tools available for visualising data, all different in cost, complexity and what they can do. [Datawrapper](https://www.datawrapper.de/), [Rawgraphs](https://app.rawgraphs.io/) and [Flourish](https://flourish.studio/) are two online tools that offer a lot for free and let you publish or embed charts quickly. Below, we take some simple data and start to create a bar chart in Datawrapper. You can then explore the tool to see how best to finish the chart.
 
 <br />
 **PREPARE YOUR DATA**
