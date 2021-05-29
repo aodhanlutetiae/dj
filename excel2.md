@@ -12,12 +12,12 @@ Type this into any available empty cell and hit Enter.
 
 >=C2+C3+C4
 
-It will give you the sum of the cells C2, C3 and C4, which is the total number of bags from the top three retailer chains (by numbers of bags)
-
 <br />
 ![pic zero](/images/walkthroughs/e_calc1.png)
 
 <br />
+It will give you the sum of the cells C2, C3 and C4, which is the total number of bags in 2019-20 from the top three retailer chains (by numbers of bags)
+
 When you select the cell (which shows around 280 million), you can see the calculation (=C2+C3+C4) in the upper left of the sheet:
 
 <br />
@@ -54,6 +54,6 @@ takes the total number of bags for these retailer chains in 2019, and divides by
 'Count A' will count *all* items in a column (not just numbers). Here it returns 194 for the number of retailers
 
 <br />
->=COUNTIF(B2:B195, '*University*')
+>=COUNTIF(B2:B195, '\*University\*')
 
 'Count if' will count any cells only if the word 'University' appears. The * is a wildcard and means anything can appear right before or right after the word.

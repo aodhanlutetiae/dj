@@ -4,11 +4,11 @@ Techniques, ideas and practice for using data to produce journalism
 
 ## Learning (June 3+)
 
-- [Spreadsheet walkthrough 1](https://aodhanlutetiae.github.io/dj/sheets)
+- [Spreadsheet walkthrough 1](https://aodhanlutetiae.github.io/dj/excel)
 - [Reading 1](https://aodhanlutetiae.github.io/dj/reading1)
 - [Basic bar chart](https://aodhanlutetiae.github.io/dj/bar)
 - [Reading 2](https://aodhanlutetiae.github.io/dj/reading2)
-- [Spreadsheet walkthrough 2](https://aodhanlutetiae.github.io/dj/sheets2)
+- [Spreadsheet walkthrough 2](https://aodhanlutetiae.github.io/dj/excel2)
 - [Reading 3](https://aodhanlutetiae.github.io/dj/reading3)
 
 ---

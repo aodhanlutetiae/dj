@@ -7,31 +7,32 @@
 
 It's a good idea to prepare your data first so that it doesn't require too much adjusting or editing while you're visualising it. Open the spreadsheet you used for single-use plastic bags in England.
 
-Alternatively, import the data again from the [bags_2years.csv](https://drive.google.com/file/d/15vDqg-u6W4tHouC42uvhMOdy21oTl3ov/view?usp=sharing) file to a new spreadsheet and organise the sheet as shown in the [first Walkthrough](https://aodhanlutetiae.github.io/dj/sheets). Filter the 'Year' column to show only 2019-20 and sort the column 'Number of single use plastic bags' column ('from Z-A') so the data is organised with the biggest numbers at the top.
+Alternatively, import the data again from the [bags_2years.csv](csvs/bags_2years.csv)
+file to a new spreadsheet and organise the sheet as shown in the [first Walkthrough](https://aodhanlutetiae.github.io/dj/excel). Filter the 'Year' column to show only 2019-20 and sort the column 'Number of single use plastic bags' column ('from Z-A') so the data is organised with the biggest numbers at the top.
 
 Now select all the data in the first eleven rows (including the column headers).
 
 <br />
-![pic zero](/images/walkthroughs/wtvz0.png)
+![pic zero](/images/walkthroughs/bar1.png)
 
 <br />
-Copy the rows (either **Edit**/**Copy** in the menu or CMD + C / CTRL + C. Add a new sheet using the **+** in the bottom left. Paste the copied rows into the new sheet.
+Copy the rows (either **Edit**/**Copy** in the menu or CMD / CTRL + C. Add a new sheet using the **+** in the bottom left. Paste the copied rows into the new sheet.
 
-In this new Sheet, clean up the data:
-- Remove the 'Year' column (right click + 'Delete column') since all the cells repeat the same thing, '2019'
+In this new sheet, clean up the data:
+- Remove the 'Year' column (Select column A, then right click + 'Delete')
 - Simplify the column names (for example: company, number of bags, proceeds (£))
 - Hide the decimal points from the proceeds column
 - Simplify the names of the retailers ('Poundland Limited' as 'Poundland' for example)
 
-Now in **File**, choose **Download** and **Comma-separated values** and save the file somewhere on your computer.
+Now in **File**, choose **Save As** and under **File format** choose **CSV** and save the file somewhere on your computer.
 
 <br />
-![pic one](/images/walkthroughs/wtvz1.png)
+![pic one](/images/walkthroughs/bar2.png)
 
 <br />
 **INGEST YOUR DATA**
 
-Visit the [Datawrapper](https://app.datawrapper.de/chart/spj9p/upload) site. Creating your own account will let you save and reuse material, but it's not essential for what follows.
+Visit the [Datawrapper](https://app.datawrapper.de/chart/spj9p/upload) site. Creating your own account will let you save and reuse your material, but it's not essential
 
 Under the question **How do you want to upload your data?**, choose the second tab **XLS/CSV upload**
 
