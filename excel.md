@@ -4,10 +4,10 @@
 > Background. Since 2015, shoppers in England have had to pay a 5p levy for single-use plastic bags. This was increased to 10p in May 2021.
 Larger retailers not only have to charge customers but must also collect data on the numbers of bags given to customers, the money collected and what they did with the money. The steps below walk through how to get some of this data into a spreadsheet and start to analyse it.
 
-<br />
 - [Higher plastic bag charge comes into force in England (BBC)](https://www.bbc.co.uk/news/business-57193108)
 - [Government guidance to retailers on carrier bag charges](https://www.gov.uk/guidance/carrier-bag-charges-retailers-responsibilities)
 
+<br />
 ---
 **IMPORTING YOUR FILE**
 
@@ -124,17 +124,17 @@ Choose a cell in the 'Number of single-use plastic bags issued' and under **Sort
 <br />
 ![pic nine](/images/walkthroughs/excel_sorted.png)
 
+
+You can also sort Column B alphabetically to organise the companies by name.
+
 <br />
-
-You can sort Column B alphabetically to organise the companies by name.
-
+<br />
 ---
 
-NEXT: [Calculations in a spreadsheet](https://aodhanlutetiae.github.io/dj/sheets2)
-
-GOOGLE SHEETS
+**ALTERNATIVE**: GOOGLE SHEETS
 > Google Sheets is a light, fast online alternative to Microsoft Excel. It requires a Google account. Many of the menus and functionalities are very similar to Excel. The above walkthrough is available with a few small differences here:
 
 - [Google Sheets walkthrough](https://aodhanlutetiae.github.io/dj/sheets).
 
+<br />
 *[Back to main page](https://aodhanlutetiae.github.io/dj/)*
