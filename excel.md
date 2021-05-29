@@ -12,9 +12,7 @@ Larger retailers not only have to charge customers but must also collect data on
 ---
 **IMPORTING YOUR FILE**
 
-Download the following CSV file to your computer: [bags_2years.csv](https://drive.google.com/file/d/15vDqg-u6W4tHouC42uvhMOdy21oTl3ov/view?usp=sharing)
-
-Download[this file](csvs/bags_2years.csv)
+Download [this CSV file](csvs/bags_2years.csv) to your computer
 
 Once the file is on your computer, right-click on it and, under **Open With**, choose the **Text Edit** or **Notepad** programme to look at what's actually in the file.
 
@@ -24,28 +22,14 @@ It's a bit of a jumble but you can see that all the pieces of information are se
 ![pic zero](/images/walkthroughs/wt0.png)
 
 <br />
-Now that you've seen what's inside your file, close it and navigate to a Google Drive online
+Close the file
 
-Open a new Sheet by clicking **+ New**, then **Google Sheets**, then **Blank Spreadsheet**
+Right-click on the file again and this time, under **Open With**, choose Microsoft Excel. (Or you can open it from within Excel using **File** and **Open**)
 
-<br />
-
-![pic new](/images/walkthroughs/wt_new.png)
+You should now have the data from the CSV file in the spreadsheet:
 
 <br />
-
-In the new Sheet, click on the **Untitled Spreadsheet** box on the top left and give your Sheet a name
-
-Under **File** select **Import**, then **Upload**
-
-Choose your **bags_2years.csv** file from your computer
-
-If asked in a dialogue box about **Import Location**, select **Insert New Sheet** and for **Separator Type**, choose **Comma** or **Detect Automatically**
-
-You should now have the data from the CSV file in your Google Sheet:
-
-<br />
-![pic one](/images/walkthroughs/wt1.png)
+![pic one](/images/walkthroughs/excel1.png)
 
 <br />
 ---
