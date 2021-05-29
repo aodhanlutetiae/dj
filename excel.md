@@ -35,23 +35,32 @@ You should now have the data from the CSV file in the spreadsheet:
 ---
 **ORGANISING YOUR SHEET**
 
-Adjust the width of the four columns (Widen or narrow by dragging the row containing the column letter names: A, B, C etc.). There are several data types here and **numbers** are aligned on the right, while **text** is aligned on the left.
+Adjust the width of the four columns (Widen or narrow by dragging the row containing the column letter names: A, B, C etc.).
 
-In the bottom left, your sheet will have a tab called **bags_2years**. Right click on the tab and select **Duplicate**. This will generate a copy of your Sheet with a tab entitled **Copy of bags_2years**. Double click on this tab and rename it as **data**.
+There are several data types here and **numbers** are aligned on the right, while **text** is aligned on the left.
+
+In the bottom left, your sheet will have a tab called **bags_2years**. Right click on the tab and select **Move or Copy**.
 
 <br />
-![pic two](/images/walkthroughs/wt_dup.png)
+![pic two](/images/walkthroughs/excel_copy.png)
 
 <br />
-Add another Sheet by using the **+** button just to the left of the tabs. Give this sheet the name **Source** and somewhere in the sheet paste the following url, which is the where the data in your CSV file came from:
+Tick the **Create a copy** box and **OK** and this will generate a copy of your sheet.
+
+Double click on the tabs to rename them as **original** and **data**.
+
+<br />
+Add another sheet by using the **+** button just to the right of the tabs. Give this sheet the name **Source** and somewhere in the sheet paste the following url, which is the where the data in your CSV file came from:
 
 - https://data.gov.uk/dataset/682843a8-168c-4056-b6fe-741161a39f60/single-use-plastic-carrier-bags-charge-data-for-england
+
+You can drag the tabs left and right to organise them as you prefer
 
 <br />
 ---
 **THE DATA**
 
-At this point we have imported the CSV file to a Sheet, we have named the Sheet and we have duplicated it so that we have a copy of the original data if we need it. We've also added the source for the data so that if we come back to work on this in six months we'll know where the data came from.
+At this point we have imported the CSV file to a spreadsheet, we have named the sheet and we have duplicated it so that we have a copy of the original data if we need it. We've also added the source for the data so that if we come back to work on this in six months we'll know where the data came from.
 
 Our data has four columns:
 
@@ -66,42 +75,36 @@ It shows how many single-use plastic bags each major retailer issued in England 
 ---
 **NAVIGATING THE SHEET**
 
-Under the menu **View**, choose **Freeze** then **1 row**. This will keep the column names in place as you scroll down through the sheet.
+Under the **View** tab at the top of the workspace, choose **Freeze top row**. This will keep the column names in place as you scroll down through the sheet.
 
 <br />
-![pic three](/images/walkthroughs/wt3.png)
+![pic three](/images/walkthroughs/excel_freeze.png)
 
 <br />
-Use CMD and a down arrow to jump to the bottom of the dataset. Use CMD and a right arrow to jump to the right of the dataset and so on.
+Use CMD / CTRL and a down arrow to jump to the bottom of the dataset. Use CMD / CTRL and a right arrow to jump to the right of the dataset and so on.
 
-Use CMD and SHIFT and arrows to *select* all the cells when you jump to the edge of the dataset.
+Use CMD / CTRL and SHIFT and arrows to *select* all the cells when you jump to the edge of the dataset.
 
-Select all the cells in Column B ('Company Name'). On the bottom right the Sheet will automatically supply a Count of the cells that contain information.
-
-<br />
-![pic four](/images/walkthroughs/wt4.png)
+Select a group of cells. On the bottom right the Sheet will automatically supply basic calculations (if the cells have numbers) or will supply just a count of the cells selected (if the cells have text).
 
 <br />
-If you select all the cells in Column C ('Number of single use plastic bags issued') that have numbers, there will be numerical calculations in the bottom right and not simply a count of the number of cells.
+![pic four](/images/walkthroughs/excel_select.png)
 
 <br />
-![pic five](/images/walkthroughs/wt5.png)
+In Column D, select the entire column by clicking in the cell that contains the letter **D**. In the menu open **Format/Cells** and under Number / Category choose **Number**. Adjust the number of decimal points to show 0. Tick the box for '1000 separator' if you want commas to show 2000 as 2,000.
 
 <br />
-Adjust the number of decimal points showing in Column D ('Gross proceeds of charge') by using the **Increase / Decrease Decimal Places** buttons
-
-<br />
-![pic six](/images/walkthroughs/wt6.png)
+![pic six](/images/walkthroughs/excel_dec.png)
 
 <br />
 ---
 
 **SORT & FILTER**
 
-Select any cell in your data. In the menus, go to **Data** and choose **Create a filter**
+Select any cell in your data. In the Home tab, go to **Sort & Filter** and choose **Filter**
 
 <br />
-![pic seven](/images/walkthroughs/wt7.png)
+![pic seven](/images/walkthroughs/exceL_find_filter.png)
 
 <br />
 
@@ -109,25 +112,21 @@ Now you can filter a column and select, for example, only the 2019-20 rows
 
 <br />
 
-![pic filter](/images/walkthroughs/wt_filter.png)
+![pic filter](/images/walkthroughs/excel_filter.png)
 
 <br />
-Go back to **Data** and choose **Remove filter**
+Go back to the **Sort & Filter** button and uncheck **Filter** to turn off the filter.
 
-Beside the letter of each column (A, B, C etc.), there is a hidden triangle with a drop down menu. Clicking on this lets you select **Sort A-Z** or **Sort Z-A**. You can sort all the company names alphabetically. Or you can sort a column of numbers from the biggest to the smallest. Sort the Company Name column alphabetically.
-
-<br />
-![pic nine](/images/walkthroughs/wt9.png)
+Choose a cell in the 'Number of single-use plastic bags issued' and under **Sort and Filter** choose **Sort Largest to Smallest** so that all the rows are organised in terms of the number of bags.
 
 <br />
-
-Try sorting the "Number of single use plastic bags issued" column to see what company charged for the biggest (or smallest) number of bags over the two years.
+![pic nine](/images/walkthroughs/excel_sorted.png)
 
 <br />
 
 ---
-**MORE**
+> Google Sheets is a light, fast online alternative to Microsoft Excel. It requires a Google account. Many of the menus and functionalities are very similar. The above walkthrough is available with a few small differences here:
 
-The learning platform GCF has [more tutorials (sections 8-16)](https://edu.gcfglobal.org/en/googlespreadsheets) on the steps above.
+- [Google Sheets walkthrough](https://aodhanlutetiae.github.io/dj/sheets).
 
 *[Back to main page](https://aodhanlutetiae.github.io/dj/)*
