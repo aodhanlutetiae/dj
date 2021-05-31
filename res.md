@@ -33,6 +33,7 @@
 (or follow events via [YouTube recordings](https://www.youtube.com/channel/UC2hBotsAYUjfxvGvsHGicMQ/videos))
 - [Birmingham](https://www.meetup.com/Hacks-Hackers-Birmingham/)
 - [Cardiff](https://www.meetup.com/Hacks-Hackers-South-Wales-x-South-West/)
+- [All chapters around the world (practical during pandemic)](https://www.meetup.com/topics/hackshackers/all/)
 
 <br />
 *[Back to main page](https://aodhanlutetiae.github.io/dj/)*

@@ -28,9 +28,10 @@ Techniques, ideas and practice for using data to produce journalism
 ## Resources
 
 - [Data journalism community](https://aodhanlutetiae.github.io/dj/res)
-- [Data journalism reading list, Jomec](https://dj-reading.readthedocs.io/en/latest/#)
-- [Data resources, Jomec](https://aodhanlutetiae.github.io/j_book/intro.html)
 - [Google drive: bit.ly/app_data_jomec](https://bit.ly/app_data_jomec)
+- [Data journalism reading list (Jomec)](https://dj-reading.readthedocs.io/en/latest/#)
+- [Data resources (Jomec)](https://aodhanlutetiae.github.io/j_book/intro.html)
+
 
 ---
 
