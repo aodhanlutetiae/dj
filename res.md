@@ -3,6 +3,7 @@
 **Email newsletters (journalism + data)**
 
 - [Bureau Local](https://www.thebureauinvestigates.com/explainers/join-our-network)
+- [Data and eggs *](https://thedataface.com/data-and-eggs)
 - [Data is plural (Jeremy Singer-Vine) *](https://www.data-is-plural.com/)
 - [Economist](https://www.economist.com/offthecharts/)
 - [European Journalism Centre](https://ejc.net/newsletters)
