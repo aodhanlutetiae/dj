@@ -1,6 +1,6 @@
 # Pivot tables in spreadsheets
 
-> A pivot table reorders spreadsheet data so you can get answers that weren't easily accessible. Here you can see an example of what a pivot table can do for you.
+> A pivot table reorders spreadsheet data so you can get answers that aren't easily accessible. Below is an example of the kind of operation a pivot table can do for you.
 
 ---
 <br />
@@ -33,7 +33,7 @@ Here you can download [an Excel spreadsheet](csvs/bags_pivot.xlsx) with the same
 
 ---
 
-If you want to build the pivot table yourself, this is [a good tutorial](https://sites.google.com/view/mj-basic-data-academy/excel-basics) for pivot tables in Excel by MaryJo Webster. Under Pivot Tables you'll find
+If you want to build the pivot table yourself, this is [a good Excel tutorial](https://sites.google.com/view/mj-basic-data-academy/excel-basics) for pivot tables by MaryJo Webster. On her page under **Pivot Tables** you'll find
 
 - cheat sheet
 - video
