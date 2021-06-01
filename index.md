@@ -10,7 +10,7 @@ Techniques, ideas and practice for using data to produce journalism
 - [Reading 2](https://aodhanlutetiae.github.io/dj/reading2)
 - [Spreadsheet walkthrough 2](https://aodhanlutetiae.github.io/dj/excel2)
 - [Reading 3](https://aodhanlutetiae.github.io/dj/reading3)
-- [Help from a pivot table](https://aodhanlutetiae.github.io/dj/pivots)
+- [A simple pivot table](https://aodhanlutetiae.github.io/dj/pivots)
 
 ---
 
