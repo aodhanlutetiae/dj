@@ -44,7 +44,7 @@ That social distancing usually outperforms attempted quarantine in a pandemic
 
 <br />
 **2**
-The Propublica argument
+The ProPublica argument
 > "the ProPublica argument has stuck in the collective consciousness in a way that the scientific rebuttals — published in academic outlets with comparatively small readerships — have not. It continues to be widely cited today, both in news articles and in scholarly work."
 
 <br />
