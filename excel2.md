@@ -38,7 +38,7 @@ is a simple calculation to divide one cell by another. Here, it will divide the 
 <br />
 >=SUM(C2:C11)
 
-will give you the sum of the number of bags for the top ten retailer chains: all the cells from C2 to C11
+will give you the total number of bags for the top ten retailer chains: all the cells from C2 to C11
 
 <br />
 >=SUM(C2:C195)
@@ -48,7 +48,7 @@ will add all the numbers in Column C and give you the total number of bags distr
 <br />
 >=AVERAGE(C2:C195)
 
-will give you the average number of bags handed out by retailer chains that year
+will give you the average number of bags handed out by the retail chains that year
 
 <br />
 >=SUM(C2:C195) / 52
@@ -63,6 +63,8 @@ takes the total number of bags for England in 2019-20 and divides by 52 for an o
 <br />
 >=COUNTIF(B2:B195, '\*university\*')
 
-'Count if' will count a cell *only* if a specified word appears in it (the * is a wildcard and means anything can appear right before or right after the word). You can also just use CMD / CTRL + F to **Find** the word and count each occurrence (here there are only six instances of the word 'university').
+'Count if' will count a cell *only* if it meets a criterion. Here the cell needs to contain the word 'university' (the * is a wildcard and means anything can appear right before or right after the word).
+
+You can also just use CMD / CTRL + F to **Find** the word and count each occurrence (here there are only six instances of the word).
 
 <br />
