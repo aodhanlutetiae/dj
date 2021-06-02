@@ -1,6 +1,6 @@
 # Pivot tables in spreadsheets
 
-> A pivot table reorders spreadsheet data so you can get answers that aren't immediately accessible because of how your spreadsheet is organised. Below is an example of the kind of operation a pivot table can carry out for you.
+> A pivot table reorders spreadsheet data so you can get answers that aren't immediately accessible because of how your spreadsheet is organised. Below is an example of the kind of operation a pivot table can carry out for you; the goal is simply to understand the operation that the pivot table is running for you.
 
 ---
 <br />
@@ -11,9 +11,9 @@ In this [Google Sheets workbook](https://docs.google.com/spreadsheets/d/1P8BU2SL
 
 - How many different years are covered?
 
-How can we compare the total number of plastic bags distributed by all retail companies from year to year?
+How can we compare the total number of plastic bags distributed from year to year?
 
-One (slow) solution would be to filter by year and get a sum for all bags in 2016-17, then a sum for all bags in 2017-18 and so on.
+One (slow!) solution would be to filter by year and get a sum for all bags in 2016-17, then a sum for all bags in 2017-18 and so on.
 
 The first pivot table in the Sheet ('pivot table SUM') has been used to calculate this quickly, and lets us compare the different years.
 
@@ -30,7 +30,7 @@ If we divide the total number of bags that year by the number of retail companie
 
 Or, just over eight million bags.
 
-But again, we can do this very quickly using a pivot table (as in the 'pivot table AVR' sheet).
+But again, we can do this much more quickly using a pivot table (as in the 'pivot table AVR' sheet).
 
 Here you can download [an Excel spreadsheet](csvs/bags_pivots.xlsx) with the same pivot tables.
 
