@@ -1,8 +1,7 @@
 # WALKTHROUGH: Get a CSV file into a spreadsheet
 
 <br />
-> Background. Since 2015, shoppers in England have had to pay a 5p levy for single-use plastic bags. This was increased to 10p in May 2021.
-Larger retailers not only have to charge customers but must also collect data on the numbers of bags given to customers, the money collected and what they did with the money. The steps below walk through how to get some of this data into a spreadsheet and start to analyse it.
+> Background. Since 2015, shoppers in England have had to pay a 5p levy for single-use plastic bags (except for smaller shops). This was increased to 10p in May 2021 and extended to all shops. Larger retailers not only have to charge customers but must also collect data on the numbers of bags given to customers, the money collected and what they did with the money. The steps below walk through how to get some of this data into a spreadsheet and start to analyse it.
 
 - [Higher plastic bag charge comes into force in England (BBC)](https://www.bbc.co.uk/news/business-57193108)
 - [Government guidance to retailers on carrier bag charges](https://www.gov.uk/guidance/carrier-bag-charges-retailers-responsibilities)
@@ -34,7 +33,9 @@ We should now have the data from the CSV file in our spreadsheet:
 ---
 **ORGANISING YOUR SHEET**
 
-Adjust the width of the four columns (Widen or narrow by dragging the row containing the column letter names: A, B, C etc.)
+Adjust the width of the columns (Widen or narrow by dragging the column dividers that separate the letter names:
+
+![widen](/images/walkthroughs/widen.png)
 
 There are several data types here and **numbers** are aligned on the right, while **text** is aligned on the left
 
@@ -58,15 +59,15 @@ You can drag the tabs left and right to reorganise them
 ---
 **THE DATA**
 
-At this point we have imported the CSV file to a spreadsheet, we have named the sheet and we have duplicated it so that we have a copy of the original data if we need it.
+At this point we have imported the CSV file to a spreadsheet, we have named the sheet and we have duplicated it so that we have a copy of our data if we need it
 
-We've also added the source for the data so that if we come back to work on this in six months we'll know where the data came from.
+We've also added the source for the data so that if we come back to work on this in six months we'll know where the data came from
 
 Our data has four columns:
 
 - Year
 - Company name
-- Number of single use plastic bags issued
+- Number of single-use plastic bags issued
 - Gross proceeds of charge
 
 It shows how many single-use plastic bags each major retailer issued in England in 2018-19 and 2019-20, and how much money each collected from charging customers for the bags. The data was published in 2020 by the Department for Environment, Food and Rural Affairs (DEFRA).
@@ -75,7 +76,7 @@ It shows how many single-use plastic bags each major retailer issued in England 
 ---
 **NAVIGATING THE SHEET**
 
-Under the **View** tab at the top of the workspace, choose **Freeze top row**. This will keep the column names in place as you scroll down through the sheet.
+Under the **View** tab at the top of the workspace, choose **Freeze Top Row**. This will keep the column names in place as you scroll down through the sheet.
 
 <br />
 ![pic three](/images/walkthroughs/excel_freeze.png)
@@ -110,7 +111,7 @@ Select any cell in your data. In the Home tab, go to **Sort & Filter** and choos
 
 <br />
 
-Now you can filter a column and select, for example, only the 2019-20 rows
+Now you can filter a column using the drop down menus that have been added to the column names. You can select, for example, only the 2019-20 rows
 
 <br />
 
@@ -125,16 +126,17 @@ Choose a cell in the 'Number of single-use plastic bags issued' and under **Sort
 ![pic nine](/images/walkthroughs/excel_sorted.png)
 
 
-You can also sort Column B alphabetically to organise the companies by name.
+Or we can sort Column B alphabetically to organise the companies by name.
 
 <br />
 <br />
+
 ---
 
 **ALTERNATIVE**: GOOGLE SHEETS
 > Google Sheets is a light, fast online alternative to Microsoft Excel. It requires a Google account. Many of the menus and functionalities are very similar to Excel. The above walkthrough is available with a few small differences here:
 
-- [Google Sheets walkthrough](https://aodhanlutetiae.github.io/dj/sheets).
+- [Google Sheets walkthrough](https://aodhanlutetiae.github.io/dj/sheets)
 
 <br />
 *[Back to main page](https://aodhanlutetiae.github.io/dj/)*
