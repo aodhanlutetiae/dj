@@ -24,10 +24,10 @@ Copy the rows (either **Edit**/**Copy** in the menu or CMD / CTRL + C). Add a ne
 Paste the copied rows into the new sheet. Then clean up the data:
 - Remove the 'Year' column (Select column A, then right click + 'Delete')
 - Simplify the column names (for example: company, number of bags, proceeds (£))
-- Hide the decimal points from the proceeds column (Menu then **Format** and **Cells**)
+- Hide the decimal points from the proceeds column (**Format** then **Cells**)
 - Simplify the names of the retailers ('Poundland Limited' as 'Poundland' for example)
 
-On the bottom left, rename the Sheet you're working in (from 'Sheet4')
+On the bottom left, rename the sheet you're working in (from 'Sheet4')
 
 Now in **File**, choose **Save As** and under **File format** choose **CSV UTF-8 (.csv)**, give it a helpful name like 'data_for_chart.csv' and save the file somewhere on your computer
 
@@ -49,14 +49,16 @@ Under the question **How do you want to upload your data?**, choose the second t
 <br />
 Check that the data has been imported correctly. Then hit **Proceed**
 
-We now have a chart of some kind but it needs to be adjusted so that it makes sense and it's clear to the reader what it contains. Use the four tabs **Chart type**, **Refine**, **Annotate** and **Layout** to build your bar chart
+We now have a chart of some kind but it needs to be adjusted so that it makes sense and it's clear to the reader what it contains.
+
+Use the four tabs **Chart type**, **Refine**, **Annotate** and **Layout** to build your bar chart
 
 <br />
 ![pic two](/images/walkthroughs/wt_gfx1.png)
 
 <br />
 - **Chart type**
-The most effective type of chart in this case is the first, Bar Chart. But you can select other types of chart and see what works with the data you've imported
+The most effective type of chart in this case is the first, Bar Chart. But you can select other types of chart and see what else works with the data you've imported
 
 - **Refine**
 Adjust the appearance of the graph by choosing colours and the labels' appearance
