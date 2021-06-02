@@ -1,10 +1,8 @@
 # WALKTHROUGH: Get a CSV file into a spreadsheet
 
 <br />
-> Background. Since 2015, shoppers in England have had to pay a 5p levy for single-use plastic bags. This was increased to 10p in May 2021.
-Larger retailers not only have to charge customers but must also collect data on the numbers of bags given to customers, the money collected and what they did with the money. The steps below walk through how to get some of this data into a spreadsheet and start to analyse it.
+> Background. Since 2015, shoppers in England have had to pay a 5p levy for single-use plastic bags (except for smaller shops). This was increased to 10p in May 2021 and extended to all shops. Larger retailers not only have to charge customers but must also collect data on the numbers of bags given to customers, the money collected and what they did with the money. The steps below walk through how to get some of this data into a spreadsheet and start to analyse it.
 
-<br />
 - [Higher plastic bag charge comes into force in England (BBC)](https://www.bbc.co.uk/news/business-57193108)
 - [Government guidance to retailers on carrier bag charges](https://www.gov.uk/guidance/carrier-bag-charges-retailers-responsibilities)
 
@@ -65,13 +63,13 @@ Add another Sheet by using the **+** button just to the left of the tabs. Give t
 ---
 **THE DATA**
 
-At this point we have imported the CSV file to a Sheet, we have named the Sheet and we have duplicated it so that we have a copy of the original data if we need it. We've also added the source for the data so that if we come back to work on this in six months we'll know where the data came from.
+At this point we have imported the CSV file to a Sheet, we have named the Sheet and we have duplicated it so that we have a copy of our data if we need it. We've also added the source for the data so that if we come back to work on this in six months we'll know where the data came from.
 
 Our data has four columns:
 
 - Year
 - Company name
-- Number of single use plastic bags issued
+- Number of single-use plastic bags issued
 - Gross proceeds of charge
 
 It shows how many single-use plastic bags each major retailer issued in England in 2018-19 and 2019-20, and how much money each collected from charging customers for the bags. The data was published in 2020 by the Department for Environment, Food and Rural Affairs (DEFRA).
@@ -96,7 +94,7 @@ Select all the cells in Column B ('Company Name'). On the bottom right the Sheet
 ![pic four](/images/walkthroughs/wt4.png)
 
 <br />
-If you select all the cells in Column C ('Number of single use plastic bags issued') that have numbers, there will be numerical calculations in the bottom right and not simply a count of the number of cells.
+If you select all the cells in Column C ('Number of single-use plastic bags issued') that have numbers, there will be numerical calculations in the bottom right and not simply a count of the number of cells.
 
 <br />
 ![pic five](/images/walkthroughs/wt5.png)
@@ -135,7 +133,7 @@ Beside the letter of each column (A, B, C etc.), there is a hidden triangle with
 
 <br />
 
-Try sorting the "Number of single use plastic bags issued" column to see what company charged for the biggest (or smallest) number of bags over the two years.
+Try sorting the 'Number of single-use plastic bags issued' column to see what company charged for the biggest (or smallest) number of bags over the two years.
 
 <br />
 

@@ -1,7 +1,7 @@
 # WALKTHROUGH: Get a CSV file into a spreadsheet
 
 <br />
-> Background. Since 2015, shoppers in England have had to pay a 5p levy for single-use plastic bags (except for smaller shops). This was increased to 10p in May 2021 and extended to all shops. Larger retailers not only have to charge customers but must also collect data on the numbers of bags given to customers, the money collected and what they did with the money. The steps below walk through how to get some of this data into a spreadsheet and start to analyse it.
+> Background. Since 2015, shoppers in England have had to pay a 5p levy for single-use plastic bags (except in smaller shops). This was increased to 10p in May 2021 and extended to all shops. Larger retailers not only have to charge customers but must also collect data on the numbers of bags given to customers, the money collected and what they did with the money. The steps below walk through how to get some of this data into a spreadsheet and start to analyse it.
 
 - [Higher plastic bag charge comes into force in England (BBC)](https://www.bbc.co.uk/news/business-57193108)
 - [Government guidance to retailers on carrier bag charges](https://www.gov.uk/guidance/carrier-bag-charges-retailers-responsibilities)
@@ -33,10 +33,11 @@ We should now have the data from the CSV file in our spreadsheet:
 ---
 **ORGANISING YOUR SHEET**
 
-Adjust the width of the columns (Widen or narrow by dragging the column dividers that separate the letter names:
+Adjust the width of the columns (Widen or narrow by dragging the column dividers that separate the letter names):
 
 ![widen](/images/walkthroughs/widen.png)
 
+<br />
 There are several data types here and **numbers** are aligned on the right, while **text** is aligned on the left
 
 In the bottom left, your sheet will have a tab called **bags_2years**. Right click on the tab and select **Move or Copy**:
@@ -53,15 +54,15 @@ Add another sheet by using the **+** button just to the right of the tabs. Give 
 
 - https://data.gov.uk/dataset/682843a8-168c-4056-b6fe-741161a39f60/single-use-plastic-carrier-bags-charge-data-for-england
 
-You can drag the tabs left and right to reorganise them
+You can drag the tabs left and right to reorder them
 
 <br />
 ---
 **THE DATA**
 
-At this point we have imported the CSV file to a spreadsheet, we have named the sheet and we have duplicated it so that we have a copy of our data if we need it
+At this point we have imported the CSV file to a spreadsheet, we have named the sheet and we have duplicated it so that we have a copy of our initial data if we need it later
 
-We've also added the source for the data so that if we come back to work on this in six months we'll know where the data came from
+We've also added the source for the data so if we come back to work on this in six months we'll know where the data came from
 
 Our data has four columns:
 
@@ -92,7 +93,7 @@ Select a small group of cells. On the bottom right the sheet will automatically 
 ![pic four](/images/walkthroughs/excel_select.png)
 
 <br />
-The column showing the money (D) collected includes two decimal places that show pence, but we don't need this level of detail. Select the entire column by clicking on the letter **D**.
+The column that lists the money collected (D) includes two decimal places that show pence, but we don't need this level of detail. Select the entire column by clicking on the letter **D**.
 
 In the menu open **Format/Cells** and under Number / Category choose **Number**. Adjust the number of decimal points to show 0. Tick the box for '1000 separator' if you want to show 2000 as 2,000.
 
@@ -134,7 +135,7 @@ Or we can sort Column B alphabetically to organise the companies by name.
 ---
 
 **ALTERNATIVE**: GOOGLE SHEETS
-> Google Sheets is a light, fast online alternative to Microsoft Excel. It requires a Google account. Many of the menus and functionalities are very similar to Excel. The above walkthrough is available with a few small differences here:
+> Google Sheets is a light, fast, online alternative to Microsoft Excel and many of its menus and functionalities are very similar to Excel's. It requires a Google account. The above walkthrough is available with a few small differences here:
 
 - [Google Sheets walkthrough](https://aodhanlutetiae.github.io/dj/sheets)
 
