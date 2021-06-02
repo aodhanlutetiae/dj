@@ -48,7 +48,7 @@ will add all the numbers in Column C and give you the total number of bags distr
 <br />
 >=AVERAGE(C2:C195)
 
-will give you the average number of bags handed out by the retail chains that year
+will give you the average number of bags handed out by a retail chain that year
 
 <br />
 >=SUM(C2:C195) / 52
@@ -63,7 +63,7 @@ takes the total number of bags for England in 2019-20 and divides by 52 for an o
 <br />
 >=COUNTIF(B2:B195, '\*university\*')
 
-'Count if' will count a cell *only* if it meets a criterion. Here the cell needs to contain the word 'university' (the * is a wildcard and means anything can appear right before or right after the word).
+'Count if' will count a cell *only* if it meets a criterion. Here the cell needs to contain the word 'university' if it's to be counted (the * is a wildcard and means anything can appear right before or right after the word).
 
 You can also just use CMD / CTRL + F to **Find** the word and count each occurrence (here there are only six instances of the word).
 
