@@ -39,7 +39,7 @@ Now in **File**, choose **Save As** and under **File format** choose **CSV UTF-8
 <br />
 **INGEST YOUR DATA**
 
-Visit the [Datawrapper](https://app.datawrapper.de/chart/VOsSx/upload) site. Creating your own account is the simplest and will let you save and reuse your material, but it's not essential
+Visit the [Datawrapper](https://app.datawrapper.de/chart/create) site. Creating your own account is the simplest and will let you save and reuse your material, but it's not essential
 
 Under the question **How do you want to upload your data?**, choose the second tab **XLS/CSV upload** since we have a CSV file
 
@@ -49,7 +49,7 @@ Under the question **How do you want to upload your data?**, choose the second t
 <br />
 Check that the data has been imported correctly. Then hit **Proceed**
 
-We now have a chart but it needs to be adjusted so it's clear to the reader what it contains. Use the four tabs **Chart type**, **Refine**, **Annotate** and **Layout** to build your bar chart
+We now have a chart of some kind but it needs to be adjusted so that it makes sense and it's clear to the reader what it contains. Use the four tabs **Chart type**, **Refine**, **Annotate** and **Layout** to build your bar chart
 
 <br />
 ![pic two](/images/walkthroughs/wt_gfx1.png)
@@ -72,6 +72,6 @@ Once you're finished you can have it emailed to you (which involves setting up a
 <br />
 ![pic two](/images/walkthroughs/wt_embed.png)
 
-This chart adjusted the numbers to make it easier to compare, for example, 163 million to 62 million (rather than 163,280,210 to 62,107,841).
+This chart edited the numbers to make it easier to compare, for example, 163 million to 62 million (rather than 163,280,210 to 62,107,841).
 
 <br />
