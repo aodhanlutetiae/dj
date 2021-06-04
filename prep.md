@@ -1,6 +1,6 @@
 Preparatory page -- this material is not yet ready for publication
 
-- [The free press around the world](https://forms.gle/2eqyZDRSC1ira54b8)
+- [The free press around the world](https://forms.gle/2eqyZDRSC1ira54b8)[data](csvs/rsf_2021_sel.csv)
 
 
 - [The weather in Sheffield](https://forms.gle/vE7qyvDxMPbysyo88)
