@@ -10,7 +10,9 @@ Preparatory page
 - [Pub closures in Ireland](https://forms.gle/TT7yDtGjRfmwgh9E6) — [data](csvs/ireland_licences_2018.csv)
 
 - [Home working](https://forms.gle/Piaox7p86rDebmX8A) — [data](csvs/hw_2021.xls)
-- [Political donations](https://forms.gle/2CrF3gvHMp21Uotx8) — [data](csvs/libdem_2020.xlsx)
+- [Political donations](https://forms.gle/2CrF3gvHMp21Uotx8) — [data](csvs/all_parties_2020.xlsx)
 
 <!-- - Watch some or all of these two talks in [Perugia in 2019](https://www.youtube.com/watch?v=HN2QXParCXo) and at the [Centre for Investigative Journalism in 2017](https://www.youtube.com/watch?v=DYzDnufwHNE)
 - [Big numbers?](https://forms.gle/WjhPJRszdT6ABmZj7) -->
+
+<!-- https://aodhanlutetiae.github.io/dj/csvs/all_parties_2020.xlsx -->
