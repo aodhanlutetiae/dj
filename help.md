@@ -1,6 +1,8 @@
 # Hints for data practice questions
 
-> Here are outlines of how to get the answer (or get close to the answer) for some questions.
+> Here are outlines of how to get the answer (or get close to the answer) for some questions in the Practice section.
+
+<br />
 
 ---
 
@@ -24,9 +26,10 @@
 
 - Once you have a useful number for Anglesey, drag the formula down the column to get the answers for all the other areas.
 
+<br />
 ---
 
-## Ireland pubs — Find the 2005-18 difference as a percentage of the 2005 figures
+## Ireland pubs — Find 2005-18 change as a percentage of 2005 figures
 
 - Calculate the difference between the 2005 number and the 2018 numbers for the first county
 
@@ -45,3 +48,9 @@
 - or
 
 > =(P2/B2) * 100
+
+<br />
+
+---
+
+## Ireland pubs — use a pivot table to count things by province
