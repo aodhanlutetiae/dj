@@ -61,7 +61,7 @@ takes the total number of bags for England in 2019-20 and divides by 52 for an o
 'Count A' will count *all* items in a column (not just numbers). Here it returns 194 for the number of retailers in Column B
 
 <br />
->=COUNTIF(B2:B195, '\*university\*')
+>=COUNTIF(B2:B195, "\*university\*")
 
 'Count if' will count a cell *only* if it meets a criterion. Here the cell needs to contain the word 'university' if it's to be counted (the * is a wildcard and means anything can appear right before or right after the word).
 
