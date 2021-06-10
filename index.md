@@ -28,6 +28,8 @@ Techniques, ideas and practice for using data to produce journalism
 
 ## Resources
 
+- [SUMMARY OF LIVE WORKSHOP, June 10](csvs/summary.pdf)
+
 - [Data journalism community](https://aodhanlutetiae.github.io/dj/res)
 - [Google drive files](https://bit.ly/app_data_jomec)
 - [Data journalism reading list (Jomec)](https://dj-reading.readthedocs.io/en/latest/#)

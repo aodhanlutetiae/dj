@@ -21,10 +21,10 @@ Select all the data in the first eleven rows (including the column headers).
 <br />
 Copy the rows (either **Edit**/**Copy** in the menu or CMD / CTRL + C). Add a new sheet using the **+** in the bottom left.
 
-Paste the copied rows into the new sheet. Then clean up the data:
+Paste the copied rows into the new sheet. Then clean up the data you've just paste:
 - Remove the 'Year' column (Select column A, then right click + 'Delete')
 - Simplify the column names (for example: company, number of bags, proceeds (£))
-- Hide the decimal points from the proceeds column (**Format** then **Cells**)
+- Hide the pence (decimal places) from the proceeds column (**Format** then **Cells**)
 - Simplify the names of the retailers ('Poundland Limited' as 'Poundland' for example)
 
 On the bottom left, rename the sheet you're working in (from 'Sheet4')

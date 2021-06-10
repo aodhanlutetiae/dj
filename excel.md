@@ -112,7 +112,7 @@ Select any cell in your data. In the Home tab, go to **Sort & Filter** and choos
 
 <br />
 
-Now you can filter a column using the drop down menus that have been added to the column names. You can select, for example, only the 2019-20 rows
+Now you can filter a column using the drop down menus that have been added to the column names. You can select, for example, only the 2019-20 rows by using the filter that's on the column 'Year'
 
 <br />
 
