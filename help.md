@@ -1,4 +1,4 @@
-# Hints for data practice questions
+# Hints for data + journalism practice
 
 > Here are outlines of how to get the answer (or get close to the answer) for some questions in the Practice section.
 
@@ -6,7 +6,7 @@
 
 ---
 
-## Wales pubs — Find the number of pubs per 100,000 people
+## Wales pubs — Find the number of pubs per 100,000 people (2018)
 
 - The areas are listed in the same order in the 'population' sheet (by area code), so you can simply select all the numbers in the 'mid-2018 pop' column and copy using CMD / CTRL + C or Edit / Copy
 
@@ -14,17 +14,23 @@
 
 - The first row with numbers is Anglesey and should be showing 60 pubs in 2018 and a population of 69,961
 
-- There are 60 pubs with 69,961 people. How many pubs would there be for one person? Divide 60 / 69,961 using
+- There are 60 pubs and 69,961 people. How many pubs would there be for one person?
 
-> =T2/U2
+> Divide 60 / 69,961 using =T2/U2
 
-- You will get 0.00085762. Each person represents a tiny fraction of a single pub, which is not very useful. Adjust the formula to multiply the result by 100 to see how many (or what fraction of) pubs there are for 100 people:
+- You will get 0.00085762: there is a *tiny* fraction of a pub for each person. This is not very useful for us so adjust the formula: multiply the result by 100 to see how many pubs there are for 100 people:
 
 > =(T2/U2)*100
 
-- It's still a small fraction. Adjust again to get the number of pubs per 10,000 people
+<br />
+- It's still a small fraction (0.085762). Adjust again to get the number of pubs per 10,000 people
 
-- Once you have a useful number for Anglesey, drag the formula down the column to get the answers for all the other areas.
+> =(T2/U2)*10000
+
+<br />
+- Now you should have a useful number for 'the number of pubs Anglesey per 100,000 people'. Paste the formula into the cells below, by dragging the small black square straight down. 
+
+![pic zero](/images/questions/sq_corner.png)
 
 <br />
 ---
