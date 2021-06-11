@@ -18,17 +18,18 @@
 
 > Divide 60 / 69,961 using =T2/U2
 
+<br />
 - You will get 0.00085762: there is a *tiny* fraction of a pub for each person. This is not very useful for us so adjust the formula: multiply the result by 100 to see how many pubs there are for 100 people:
 
 > =(T2/U2)*100
 
 <br />
-- It's still a small fraction (0.085762). Adjust again to get the number of pubs per 10,000 people
+- It's still a small fraction of a pub for 100 people in Anglesey (0.085762). Adjust again to get the number of pubs per 10,000 people:
 
 > =(T2/U2)*10000
 
 <br />
-- Now you should have a useful number for 'the number of pubs Anglesey per 100,000 people'. Paste the formula into the cells below, by dragging the small black square straight down. 
+- Now you should have a useful number for 'the number of pubs in Anglesey per 100,000 people'. Paste the formula into the cells below, by dragging the small black square straight down. The formula will be adjusted for each row automatically so you will get a number for each area.
 
 ![pic zero](/images/questions/sq_corner.png)
 
@@ -37,17 +38,17 @@
 
 ## Ireland pubs — Find 2005-18 change as a percentage of 2005 figures
 
-- Calculate the difference between the 2005 number and the 2018 numbers for the first county
+- In the first free column, calculate the difference between the 2005 and the 2018 numbers for a county
 
 > =B2-O2
 
-- Drag that formula down the rest of the column
-
-- Now you want to consider this figure (for Longford, the difference between 2005 and 2018 is 22) in terms of the 2005 number (113, for Longford).
+<br />
+- Taking Longford as an example, the 2005-2018 difference is 22, down from 113 to 91. We will want to see this drop (22) as a proportion of the 2005 (113) figure:
 
 > 22/113
 
-- We want to see this amount (22) out of 100 rather than out of 113, so:
+<br />
+- But we want to see this proportion expressed in 100 rather than out of 1, so:
 
 > (22/113) *  100
 
@@ -56,6 +57,7 @@
 > =(P2/B2) * 100
 
 <br />
+So the drop in Longford (22) is 19% of the number of pubs that were there in 2005
 
 ---
 
