@@ -9,12 +9,12 @@ Preparatory page
 - [Pubs in Wales](https://forms.gle/qrL5jyJ6Lkts5vscA) — [data](csvs/wales_pubs.xlsx)
 - [Pubs in Ireland](https://forms.gle/TT7yDtGjRfmwgh9E6) — [data](csvs/ireland_licences_2018.csv)
 
-- [Some charts]
+- [More uses of data](https://forms.gle/rYyZPGDyxD42eBLj6)
 
 - [Home working](https://forms.gle/Piaox7p86rDebmX8A) — [data](csvs/hw_2021.xls)
 - [Political donations](https://forms.gle/2CrF3gvHMp21Uotx8) — [data](csvs/all_parties_2020.xlsx)
 
-- [More?]
+- [Picturing data]
 
 <!-- - Watch some or all of these two talks in [Perugia in 2019](https://www.youtube.com/watch?v=HN2QXParCXo) and at the [Centre for Investigative Journalism in 2017](https://www.youtube.com/watch?v=DYzDnufwHNE)
 - [Big numbers?](https://forms.gle/WjhPJRszdT6ABmZj7) -->
