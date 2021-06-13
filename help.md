@@ -6,7 +6,7 @@
 
 ---
 
-## Wales pubs — Find the number of pubs per 100,000 people (2018)
+## Wales pubs — Find the number of 2018 pubs per 10,000 people
 
 - The areas are listed in the same order in the 'population' sheet (by area code), so you can simply select all the numbers in the 'mid-2018 pop' column and copy using CMD / CTRL + C or Edit / Copy
 
@@ -19,7 +19,7 @@
 > Divide 60 / 69,961 using =T2/U2
 
 <br />
-- You will get 0.00085762: there is a *tiny* fraction of a pub for each person. This is not very useful for us so adjust the formula: multiply the result by 100 to see how many pubs there are for 100 people:
+- You will get 0.00085762: there is a tiny fraction of a pub for each person. Multiply the result by 100 to see how many pubs there are for 100 people:
 
 > =(T2/U2)*100
 
@@ -29,7 +29,7 @@
 > =(T2/U2)*10000
 
 <br />
-- Now you should have a useful number for 'the number of pubs in Anglesey per 100,000 people'. Paste the formula into the cells below, by dragging the small black square straight down. The formula will be adjusted for each row automatically so you will get a number for each area.
+- Now you have the number of pubs in Anglesey per 10,000 people. Paste the formula into the cells below, by dragging the small black square straight down. The formula will be adjusted for each row automatically so you will get a rate for each area.
 
 ![pic zero](/images/questions/sq_corner.png)
 
@@ -48,7 +48,7 @@
 > 22/113
 
 <br />
-- But we want to see this proportion expressed in 100 rather than out of 1, so:
+- But we want to see this proportion expressed out of 100 rather than out of 1, so:
 
 > (22/113) *  100
 
@@ -57,7 +57,7 @@
 > =(P2/B2) * 100
 
 <br />
-So the drop in Longford (22) is 19% of the number of pubs that were there in 2005
+So the drop in Longford (22) is 19% of the number of pubs (113) that were there in 2005
 
 <br />
 ---

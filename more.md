@@ -1,6 +1,7 @@
 # Finally
 
-> Well done if you've worked your way through all this material (or even if you've skipped some parts for now). If you're looking for more ideas about data and journalism, here are some talks. And a book
+> Well done if you've worked your way through all this material (or even if you've skipped some parts for now). If you're looking for more ideas about data and journalism, here are some talks.
+> And a book
 
 <br />
 - A [talk at the CIJ in 2017](https://www.youtube.com/watch?v=DYzDnufwHNE) in which Aron Pilhofer explains what data journalism is (and isn't)

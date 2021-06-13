@@ -6,7 +6,7 @@ Preparatory page
 
 - [The tube in London](https://forms.gle/TEcZadFC7MkCMzBu5) — [data](csvs/tube_2017.csv)
 
-- [Finding datasets](https://forms.gle/e59KU8RJgPS3L2jt8)
+- [Finding data and datasets](https://forms.gle/e59KU8RJgPS3L2jt8)
 
 - [Pubs in Wales](https://forms.gle/qrL5jyJ6Lkts5vscA) — [data](csvs/wales_pubs.xlsx)
 
