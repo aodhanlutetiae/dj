@@ -18,6 +18,4 @@ Preparatory page
 
 - [Political donations](https://forms.gle/2CrF3gvHMp21Uotx8) — [data](csvs/all_parties_2020.xlsx)
 
-- [Picturing data](https://forms.gle/16mBGKBwzkcApQbu9)
-
 - [Finally](https://aodhanlutetiae.github.io/dj/more)
