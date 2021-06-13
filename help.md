@@ -59,6 +59,9 @@
 <br />
 So the drop in Longford (22) is 19% of the number of pubs that were there in 2005
 
+<br />
 ---
 
-## Ireland pubs — use a pivot table to count things by province
+## Pivot tables to count things (Ireland pubs, Party donations)
+
+Here is a [video walkthrough](https://youtu.be/N8MaHOv0X2Q) of how to build pivot tables to answer the questions about Irish pubs and donations to UK political parties.
