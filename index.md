@@ -25,7 +25,7 @@ Techniques, ideas and practice for using data to produce journalism
 - [More uses of data](https://forms.gle/rYyZPGDyxD42eBLj6)
 - [Home working](https://forms.gle/Piaox7p86rDebmX8A)
 - [Political donations](https://forms.gle/2CrF3gvHMp21Uotx8)
-- [Finally](https://aodhanlutetiae.github.io/dj/more)
+- [Finally...](https://aodhanlutetiae.github.io/dj/more)
 
 ---
 
