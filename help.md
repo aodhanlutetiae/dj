@@ -40,10 +40,10 @@
 
 - In the first free column, calculate the difference between the 2005 and the 2018 numbers for a county
 
-> =B2-O2
+> =C2-K2
 
 <br />
-- Taking Longford as an example, the 2005-2018 difference is 22, down from 113 to 91. We will want to see this drop (22) as a proportion of the 2005 (113) figure:
+- Taking Longford as an example, the 2005-2018 difference is 22, down from 113 to 91. We want to see this drop (22) as a proportion of the 2005 (113) figure:
 
 > 22/113
 
@@ -54,7 +54,7 @@
 
 - or
 
-> =(P2/B2) * 100
+> =(L2/C2) * 100
 
 <br />
 So the drop in Longford (22) is 19% of the number of pubs (113) that were there in 2005
