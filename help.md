@@ -64,4 +64,4 @@ So the drop in Longford (22) is 19% of the number of pubs (113) that were there 
 
 ## Pivot tables to count things (Ireland pubs, Party donations)
 
-Here are two video walkthroughs of how to build pivot tables to answer the questions about Irish pubs and donations to UK political parties. The [first part](https://youtu.be/tHxHwIHfDDw) does it in Sheets, the [second part]((https://youtu.be/j9EEkXTSjHw)) in Excel.
+Here are two video walkthroughs of how to build pivot tables to answer the questions about Irish pubs and donations to UK political parties. The [first part](https://youtu.be/tHxHwIHfDDw) does it in Sheets, the [second part](https://youtu.be/j9EEkXTSjHw) in Excel.
