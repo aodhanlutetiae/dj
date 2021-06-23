@@ -13,7 +13,7 @@
 - [Hacks Hackers (World)](https://www.hackshackers.com/)
 
 
-\* includes an archive of older emails that have been sent out so you can browse older content
+\* includes an archive of previous emails so you can browse older content
 
 ---
 
