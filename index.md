@@ -40,5 +40,6 @@ Techniques, ideas and practice for using data to produce journalism
 
 
 ---
+[About this resource](https://aodhanlutetiae.github.io/dj/about)
 
 [Get in touch](mailto:odonnella4@cardiff.ac.uk)
