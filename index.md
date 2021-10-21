@@ -2,7 +2,7 @@
 
 Techniques, ideas and practice for using data to produce journalism
 
-## Learning (June 3+)
+## Learning
 
 - [Spreadsheet walkthrough 1](https://aodhanlutetiae.github.io/dj/excel)
 - [Reading 1](https://aodhanlutetiae.github.io/dj/reading1)
@@ -14,12 +14,13 @@ Techniques, ideas and practice for using data to produce journalism
 
 ---
 
-## Practice (June 14+)
+## Practice
 
 - [The free press around the world](https://forms.gle/2eqyZDRSC1ira54b8) — [data](https://aodhanlutetiae.github.io/dj/csvs/rsf_2021_sel.csv)
 - [The weather in Sheffield](https://forms.gle/vE7qyvDxMPbysyo88) — [data](https://aodhanlutetiae.github.io/dj/csvs/sheffield_weather_sel.csv)
 - [The tube in London](https://forms.gle/TEcZadFC7MkCMzBu5) — [data](https://aodhanlutetiae.github.io/dj/csvs/tube_2017.csv)
-- [Finding data and datasets](https://forms.gle/e59KU8RJgPS3L2jt8)
+- [Finding data and datasets 1](https://forms.gle/e59KU8RJgPS3L2jt8)
+- [Finding data and datasets 2](https://forms.gle/156tDVQ7DZ9FHhx16)
 - [Pubs in Wales](https://forms.gle/qrL5jyJ6Lkts5vscA) — [data](https://aodhanlutetiae.github.io/dj/csvs/wales_pubs.xlsx)
 - [Pubs in Ireland](https://forms.gle/TT7yDtGjRfmwgh9E6) — [data](https://aodhanlutetiae.github.io/dj/csvs/ireland_licences_2018.csv)
 - [More uses of data](https://forms.gle/rYyZPGDyxD42eBLj6)
@@ -31,10 +32,10 @@ Techniques, ideas and practice for using data to produce journalism
 
 ## Resources
 
-- [SUMMARY OF LIVE WORKSHOP, June 10](csvs/summary.pdf)
+- [Summary of live workshop](csvs/summary.pdf)
 
 - [Data journalism community](https://aodhanlutetiae.github.io/dj/res)
-- [Google drive files](https://bit.ly/app_data_jomec)
+- [Google drive](https://bit.ly/app_data_jomec)
 - [Data journalism reading list (Jomec)](https://dj-reading.readthedocs.io/en/latest/#)
 - [Data resources (Jomec)](https://aodhanlutetiae.github.io/j_book/intro.html)
 

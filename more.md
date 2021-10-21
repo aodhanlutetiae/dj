@@ -10,4 +10,4 @@
 
 - A review of [interesting stories with data](https://www.youtube.com/watch?v=KbUIeMg5oVI) from the 2019 GIJN festival
 
-- If you haven't already read it, [The Tiger That Isn't](https://profilebooks.com/work/the-tiger-that-isnt/) has served many journalists (and others) well since it came out in 2008. There are many similar books but it's still probably the best (and most readable) introduction to asking intelligent, sensible questions of numbers and it shouldn't cost you more than a tenner.
+- If you haven't already read it, [The Tiger That Isn't](https://profilebooks.com/work/the-tiger-that-isnt/) has served many journalists well since it came out in 2008. There are many similar books but it's still probably the best (and most readable) introduction to asking intelligent, sensible questions of numbers and it shouldn't cost you more than a tenner.

@@ -1,3 +1,21 @@
+version 1.2 september -- changes made
+
+added question numbers to the google quizzes (impossible to discuss them otherwise)
+removed all BBC learners scoring
+Added feedback (how to actually get the right answers) to all question responses
+Adjusted some of the quiz language ('we did this during the live workshop') to work with general public
+Corrected some errors (like feedback appearing for wrong quiz)
+
+Beside the letter ‘E’ you will find a dropdown menu which lets you sort the sheet in terms of what is in the rainfall column. Choose ‘Sort Sheet Z to A’ and the rows will be organised from the biggest rainfall to the smallest. The top row will show 2 (February) in 2020 and a rainfall of 224.6mm.
+
+
+** GOOGLE QUIZZES GIVING ANSWERS **
+
+When you give:
+right answer - you get a green tick, so you it's clear it's the right one
+wrong answer - it prints the correct answer separately
+no answer - it doesn't show the correct answers
+
 
 ** SIZING IMAGES IN MARKDOWN**
 
