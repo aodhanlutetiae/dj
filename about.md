@@ -7,8 +7,3 @@ The Learning section covers the basics of starting to use spreadsheets and an on
 The Practice section is a series of exercises with accompanying quizzes that allow you to apply basic data analysis to some datasets (i.e. to 'interview' some data sources). It is designed to take *around* eight hours.
 
 The Resources section has useful people or events to follow if you're getting started and has links to resource lists and datasets lists that we use at Jomec.
-
----
-## Development
-
-1.0   Initial version  June 2021
