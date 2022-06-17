@@ -8,14 +8,22 @@ The first two online courses outline the Python programming language that you'll
 
 Then there are two courses on web development: one on HTML which is used to build web pages, and another on CSS which often controls how they look.
 
-You don't have to use *these* courses so if you want to learn the same stuff in a different way, go for it.
+You don't have to use *these* courses —— if you want to learn the same stuff in a different way, go for it.
 
 ---
+## Essentials
 
-[Datacamp introductory course on Python](https://campus.datacamp.com/courses/intro-to-python-for-data-science) | Estimated at around four hours
+[Intro to Python for data science (Datacamp)](https://campus.datacamp.com/courses/intro-to-python-for-data-science) 4h?
 
-[Educative introductory course on Python](https://www.educative.io/courses/learn-python-3-from-scratch) | Estimated at around 10 hours
+[Learn Python 3 from scratch (Educative)](https://www.educative.io/courses/learn-python-3-from-scratch) 10h?
 
-[Free Code Camp course on HTML: Learn html by building a cat photo app](https://www.freecodecamp.org/learn/2022/responsive-web-design/)
+[Learn HTML by building a cat photo app (Free code camp)](https://www.freecodecamp.org/learn/2022/responsive-web-design/)
 
-[Free Code Camp course on HTML: Learn basic CSS by building a cafe menu](https://www.freecodecamp.org/learn/2022/responsive-web-design/)
+[Learn basic CSS by building a cafe menu (Free code camp)](https://www.freecodecamp.org/learn/2022/responsive-web-design/)
+
+---
+## More
+
+[Python Basics (Practising Python)](https://www.hackinscience.org/exercises/)
+
+[Basic Javascript (Free code camp)](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)
