@@ -1,7 +1,20 @@
+## Getting started with code
 
-Hello! Here are three courses that will show you the basics of the Python programming language and of HTML and CSS that are used in web development.
+Hello!
 
-[Datacamp introductory course on Python](https://campus.datacamp.com/courses/intro-to-python-for-data-science)
+If you haven't worked with computer code before, it's useful to cover some of the fundamentals before beginning your study in September. If you already know the basics, you'll find it easier to progress quickly once you arrive.
+
+The first two online courses outline the Python programming language that you'll be using a lot. This is a really versatile language and you'll be able to put it to work for lots of things. And happily it's pretty easy to get started with.
+
+Then there are two courses on web development: one on HTML which is used to build web pages, and another on CSS which often controls how they look.
+
+You don't have to use *these* courses so if you want to learn the same stuff in a different way, go for it.
+
+---
+
+[Datacamp introductory course on Python](https://campus.datacamp.com/courses/intro-to-python-for-data-science) | Estimated at around four hours
+
+[Educative introductory course on Python](https://www.educative.io/courses/learn-python-3-from-scratch) | Estimated at around 10 hours
 
 [Free Code Camp course on HTML: Learn html by building a cat photo app](https://www.freecodecamp.org/learn/2022/responsive-web-design/)
 
