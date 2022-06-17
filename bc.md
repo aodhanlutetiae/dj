@@ -10,8 +10,10 @@ Then there are two courses on web development: one on HTML which is used to buil
 
 You don't have to use *these* courses —— if you want to learn the same stuff in a different way, go for it.
 
+Finally there are two more online courses. One is a series of challenges to work on your Python skills and solve some problems; the other is an introduction to Javascript, another powerful programming language you'll use from September.
+
 ---
-## Essentials
+## Essentials
 
 [Intro to Python for data science (Datacamp)](https://campus.datacamp.com/courses/intro-to-python-for-data-science) 4h?
 
@@ -24,6 +26,6 @@ You don't have to use *these* courses —— if you want to learn the same stuff
 ---
 ## More
 
-[Python Basics (Practising Python)](https://www.hackinscience.org/exercises/)
+[Python Challenges (Hackinscience Python Basics 1-18)](https://www.hackinscience.org/exercises/)
 
 [Basic Javascript (Free code camp)](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)
